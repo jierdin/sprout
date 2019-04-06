@@ -288,7 +288,7 @@ MISCELLANEOUS PROVISIONS
 
 ###### EXHIBIT A     Members and Interests in Each Series
 
-###### EXHIBIT B.1 –B.56  Form of Separate Series Agreement
+###### EXHIBIT B     Form of Separate Series Agreement
 
 ###### EXHIBIT C     Agreement to Terminate Series
 
@@ -306,7 +306,7 @@ THIS LIMITED LIABILITY COMPANY AGREEMENT is made and entered into, and is effect
 
 #### RECITALS
 
-WHEREAS, the parties hereto desire to form a limited liability company pursuant to the [[STATE OF INCORPORATION]] Limited Liability Company Act by filing a Certificate of Formation of the Company with the office of the Secretary of State of the State of [[STATE OF INCORPORATION]] and entering into this Agreement; and
+WHEREAS, the parties hereto desire to form a limited liability series company pursuant to the [[STATE OF INCORPORATION]] Limited Liability Company Act by filing a Certificate of Formation of the Company with the office of the Secretary of State of the State of [[STATE OF INCORPORATION]] and entering into this Agreement; and
 
 
 WHEREAS, it is intended by the parties hereto that each property acquired by the Company shall be a separate series with respect to the Members of the Company and that the debts, liabilities and obligations incurred, contracted for or otherwise existing with respect to a particular series of the Company will be enforceable against the assets of such series only, and not against the assets of the Company generally or any other series thereof, and none of the debts, liabilities, obligations and expenses incurred, contracted for or otherwise existing with respect to the Company generally or any other series thereof shall be enforceable against the assets of such series; and
@@ -329,7 +329,7 @@ The following terms used in this Agreement shall have the following meanings:
 
 “Capital Account” shall mean, with respect to any Series and with respect to any Member, the capital account maintained for such Member that is associated with such Series in accordance with the provisions of Section 8.03. A separate Capital Account shall be maintained for each Member's interest in each Series.
 
-“Capital Contribution” shall mean, with respect to any Member, any contribution to the Company with respect to a Series in cash or other property (at such other property's initial Gross Asset Value) by such Member whenever made. “Initial Capital Contribution” shall mean, with respect to any Member, the initial contribution to the Company by such Member with respect to a Series pursuant to this Agreement.
+“Capital Contribution” shall mean, with respect to any Member, any contribution to the Company with respect to a Series in cash,  cryptocurrency, or other property (at such other property's initial Gross Asset Value) by such Member whenever made. “Initial Capital Contribution” shall mean, with respect to any Member, the initial contribution to the Company by such Member with respect to a Series pursuant to this Agreement.
 
 “Certificate of Formation” shall mean the Certificate of Formation of the Company and any and all amendments thereto and restatements thereof filed on behalf of the Company with the office of the Secretary of State of the State of [[STATE OF INCORPORATION]] pursuant to the Act.
 
@@ -341,9 +341,9 @@ The following terms used in this Agreement shall have the following meanings:
 
 “Distributable Cash” shall mean, with respect to a Series, all cash, cryptocurrencies, revenues and funds received by the Company with respect to such Series from such Series' operations, less the sum of the following to the extent paid or set aside by the Company with respect to such Series: (i) all principal and interest payments on indebtedness of the Company with respect to such Series and all other sums paid to lenders with respect to such Series; (ii) all cash expenditures incurred in the normal operation of the Company’s business with respect to such Series; and (iii) such Reserves as the Members associated with such Series deem reasonably necessary for the proper operation of the Company's business with respect to such Series.
 
-“Entity” shall mean any general partnership, limited partnership, limited liability company, corporation, joint venture, trust, business trust, cooperative, association, foreign trust or foreign business organization or other legal entity.
+“Entity” shall mean any general partnership, limited partnership, limited liability company, corporation, joint venture, trust, business trust, cooperative, association, decentralized organization, foreign trust or foreign business organization or other legal entity.
 
-“Fiscal Year” shall mean (i) the period commencing upon the formation of the Company and ending on December 31, 2015, (ii) any subsequent twelve (12) month period commencing on January 1 and ending on December 31, or (iii) any portion of the period described in Clause (ii) of this sentence for which the Company is required to allocate Profits, Losses and other items of Company income, gain, loss or deduction pursuant to Article IX hereof.
+“Fiscal Year” shall mean (i) the period commencing upon the formation of the Company and ending on December 31, 20019, (ii) any subsequent twelve (12) month period commencing on January 1 and ending on December 31, or (iii) any portion of the period described in Clause (ii) of this sentence for which the Company is required to allocate Profits, Losses and other items of Company income, gain, loss or deduction pursuant to Article IX hereof.
 
 “Gross Asset Value” shall mean, with respect to any asset associated with a Series, such asset's adjusted basis for federal income-tax purposes, except as follows:
 
@@ -358,9 +358,8 @@ If the Gross Asset Value of an asset has been determined or adjusted pursuant to
 “Majority Interest” shall mean, with respect to a Series or the Company as applicable, the vote of Membership Interests of one or more Members that in the aggregate exceed 50% of all VOTING Percentage Interests owned by Members associated with respect to such Series or the Company as applicable. Except as otherwise provided, non voting Members shall have no voting rights.
 
 “Member” shall include:
-(i) [[MEMBER ONE]] and [[MEMBER TWO]] each in his/her/its capacity as a member of the Company not associated with any Series;
-(ii) [[MEMBER ONE]] and [[MEMBER TWO]], each in his/her/its capacity as a member of the Company associated with a Series (as such Series may, from time to time, be created in accordance with the terms of this Agreement), and
-(iii) Persons later admitted as Members of the Company, who shall be admitted in accordance with this Agreement. Members of the Company shall at all times be Members of the Company until the Company is dissolved, wound up and terminated in accordance with the Act and this Agreement, notwithstanding the fact that there may or may not be any Series at any particular point in time. Upon being admitted as a Member of the Company, unless otherwise specified in any Separate Series Agreement, such Member shall also be considered admitted as a Member of each individual Series and shall hold the same Percentage Interest in such Series as it holds in the Company.  Upon being admitted as a Member of any Separate Series Agreement, unless otherwise specified such Separate Series Agreement, such Member shall not be considered admitted as a Member of the Company and each other Series and shall not hold the same Percentage Interest in the Company and each other Series as it holds in such Separate Series Agreement. The Company shall be controlled by a simple majority of Member(s) holding more than 50% of the Voting units in the Company who have the powers to make any decision not in violation of this agreement including but not limited to appointment and removal of Company manager(s).
+(i) Eric Roberts, David Murry, Victor Miller, David Pope, each in their capacity as a member of the Company associated with a Series (as such Series may, from time to time, be created in accordance with the terms of this Agreement), and
+(ii) Persons later admitted as Members of the Company, who shall be admitted in accordance with this Agreement. Members of the Company shall at all times be Members of the Company until the Company is dissolved, wound up and terminated in accordance with the Act and this Agreement, notwithstanding the fact that there may or may not be any Series at any particular point in time. The Company shall be controlled by a simple majority of Member(s) holding more than 50% of the Voting units in the Company who have the powers to make any decision not in violation of this agreement including but not limited to appointment and removal of Company manager(s).
 
 “Membership Interest” shall mean a Member’s entire limited liability company interest in the Company with respect to a Series.
 
@@ -402,13 +401,13 @@ The headings and subheadings in this Agreement are included for convenience and 
 
 (b) The Members hereby agree to form the Company as a limited liability company under and pursuant to the provisions of the Act and agree that the rights, duties and liabilities of the Members shall be as provided in the Act, except as otherwise provided herein.
 
-(c) Upon their execution of this Agreement, without the need for the consent or other action of any Person or the need for a Separate Series Agreement, those Persons whose names appear on the signature page shall be admitted as Members of the Company not associated with any Series. In their capacities as Members not associated with any Series, such persons shall not make any Capital Contribution to the Company and shall have no Membership Interest (hereafter “Founders”). The Founders may, however, subsequently also become Members associated with one or more Series and, in those separate capacities, acquire Membership Interests associated with such Series and be required to make Capital Contributions to the Company with respect to any such Series, all in accordance with the terms of this Agreement. The Founders, in their capacities as Members not associated with a Series, shall not acquire assets for or incur liabilities or other obligations with respect to the Company. The Company may acquire assets and incur liabilities or other obligations only to the extent that they are by the Company with respect to a Series and not with respect to the Company generally.
+(c) Upon their execution of this Agreement, without the need for the consent or other action of any Person or the need for a Separate Series Agreement, those Persons whose names appear on the signature page shall be admitted as Members of the Company.
 
 (d) As established from time to time in accordance with this Agreement, there may be designated additional Series having separate rights, powers or duties with respect to Separate Property or obligations or profits and losses associated with Separate Property or obligations and, to the extent provided in this Agreement and a Separate Series Agreement, and may have a separate business purpose or investment objective. A Member may be a member of one or more Series.
 
 (e) Without the need for the consent of any Person, the Founders may establish one or more additional Series as they may jointly determine in their sole discretion. The terms of each additional Series shall be as set forth in this Agreement and a separate agreement establishing such Series (a “Separate Series Agreement”) substantially in the form of Exhibit B attached hereto. A Separate Series Agreement must be executed by the Founders as Members associated with such Series. To the extent that a Separate Series Agreement conflicts with this Agreement, this Agreement shall control.
 
-(f) No debt, liability or obligation of a Series shall be a debt, liability or obligation of any other Series. The debts, liabilities and obligations incurred, contracted for or otherwise existing with respect to a Series shall be enforceable against the assets of such Series only and not against any other assets of the Company generally or any other Series and none of the debts, liabilities, obligations and expenses incurred, contracted for or otherwise existing with respect to the Company generally or any other Series shall be enforceable against the assets of such Series. Separate and distinct records shall be maintained for each and every Series, and assets associated with any such Series shall be accounted for separately from the other assets of the Company, or any other Series of the Company. The Certificate of Formation shall contain notice of the limitation of liabilities of a Series as to other Series in conformity with §18-215 of the Act.
+(f) No debt, liability or obligation of a Series shall be a debt, liability or obligation of any other Series. The debts, liabilities and obligations incurred, contracted for or otherwise existing with respect to a Series shall be enforceable against the assets of such Series only and not against any other assets of the Company generally or any other Series and none of the debts, liabilities, obligations and expenses incurred, contracted for or otherwise existing with respect to the Company generally or any other Series shall be enforceable against the assets of such Series. Separate and distinct records shall be maintained for each and every Series, and assets associated with any such Series shall be accounted for separately from the other assets of the Company, or any other Series of the Company.
 
 (g) The Founders shall be deemed admitted as Members of the Company associated with a newly created Series, upon their execution of a counterpart signature page to the relevant Separate Series Agreement.
 
@@ -416,7 +415,7 @@ The headings and subheadings in this Agreement are included for convenience and 
 
 ###### Section 2.02 - Name:
 
-The name of the Company shall be [[COMPANY]] (a [[STATE OF INCORPORATION]] Series LLC). The business of the Company may be conducted upon compliance with all applicable laws under any other name designated by the Founders.
+The name of the Company shall be Sprout (a Wyoming Series LLC). The business of the Company may be conducted upon compliance with all applicable laws under any other name designated by the Founders.
 
 ###### Section 2.03 - Principal Place of Business:
 
@@ -424,7 +423,7 @@ The principal place of business of the Company shall be c/o [[ADDRESS ONE]]. The
 
 ###### Section 2.04 - Registered Office and Registered Agent:
 
-The Company’s registered office in the State of [[STATE OF INCORPORATION]] shall be at the office of its registered agent: [[REGISTERED AGENT ADDRESS]], and the Company‘s registered agent in the State of [[STATE OF INCORPORATION]] shall be Agents and Corporations, Inc. At any time, the registered office and registered agent of the Company may be changed by filing the address of the new registered office and/or the name of the new registered agent with the Secretary of State of the State of [[STATE OF INCORPORATION]] pursuant to the Act.
+The Company’s registered office in the State of Wyoming shall be at the office of its registered agent: [[REGISTERED AGENT ADDRESS]], and the Company‘s registered agent in the State of Wyoming shall be Agents and Corporations, Inc. At any time, the registered office and registered agent of the Company may be changed by filing the address of the new registered office and/or the name of the new registered agent with the Secretary of State of the State of Wyoming pursuant to the Act.
 
 ###### Section 2.05 - Term:
 
@@ -454,25 +453,22 @@ The Company and each Series shall have the power to do any or all of the acts ne
 
 The respective names and addresses of the Members of each Series are set forth on Exhibit A attached hereto.
 
-[[MEMBERS]]
 
 ###### Section 4.02 – Chief Executive Officer:
 
-The duly elected and qualified persons holding the office of Manager shall be vested with the authority to act as and on behalf of the Company.
-
-[[CEO]]
+The duly elected and qualified persons holding the office of President shall be vested with the authority of a 'Manager' to act as and on behalf of the Company.
 
 ###### Section 4.03 - Managers:
 
-The LLC manager shall appointed with the following titles and with the following authority. The majority in interest of the Voting Members have delegated their power and authority to the following President, Secretary and/or Treasurer as officers of the Company, all of whom could be the same person and who could be a Member of the Company and will have the power and authority provided herein, unless otherwise specified by a majority in interest of the Voting Members:
+The following titles are appointed with the following authority. The majority in interest of the Voting Members have delegated their power and authority to the following President, Secretary and/or Treasurer as officers of the Company, all of whom could be the same person and who could be a Member of the Company and will have the power and authority provided herein, unless otherwise specified by a majority in interest of the Voting Members:
 
-1.    [[MANAGER ONE]], President
-2.    [[MANAGER TWO]], Treasurer and Secretary
-
+1.    Eric Roberts, President
+2.    David Pope, Treasurer
+3.    Victor Miller, Secretary
+4.    David Murry, Vice-President
 
 
 (a)  President. The President shall be the chief executive officer of the Company, shall preside at all meetings of the Members, shall have general and active management of the business of the Company, and shall execute bonds, mortgages, loans, leases and contracts for the Company, and is authorized to open and sign bank accounts and to authorize other officers or persons to open and sign such accounts. If the President is unable or unavailable to serve, the Vice President shall assume the role of President until such time that the President is available or able to serve.
-
 
 (b.)  Secretary. The Secretary shall record all the proceedings of the meetings of the Members and notice of all meetings of the Members, and shall perform such other duties as may be prescribed by the President, under whose supervision he shall be.
 
@@ -482,6 +478,7 @@ The foregoing officers shall serve until their respective successors are chosen 
 
 The respective names and addresses of the Manager or Managers of each Series are set forth on its separate series agreement and shall be called and have the authority accorded by the above definitions. The Manager or Managers of each Series shall serve until each of his or her successor is elected.
 
+TODO: Add in rotation of offices? 2 year term max, until waiting another 2 years?
 
 #### ARTICLE V
 
@@ -489,9 +486,9 @@ The respective names and addresses of the Manager or Managers of each Series are
 
 ###### Section 5.01 - Management:
 
-  The business and affairs of a Series shall be vested in the Voting Members of that Series in accordance with this Agreement. The business and affairs of the Company shall be vested in the Voting Members of the Company. Notwithstanding the foregoing, the management of the Company or a Series may be vested in one or more Managers who shall be chosen in the manner provided for herein. A Manager need not be a Member. Only Voting Members or Managers associated with a Series shall direct, manage and control the business and affairs of such Series. All Managers shall have the right to vote on a per capita basis as to the management and conduct of the business of the Company or Series. Except as otherwise herein set forth, a majority of the Managers shall control.
+  The business and affairs of a Series shall be vested in the Voting Members of that Series in accordance with this Agreement. The business and affairs of the Company shall be vested in the Voting Members of the Company. Notwithstanding the foregoing, the management of the Company or a Series may be vested in one or more Managers who shall be chosen in the manner provided for herein. A Manager need not be a Member. Only Voting Members or Managers associated with a Series shall direct, manage and control the business and affairs of such Series. All Managers shall have the right to vote, weighted by their shares, as to the management and conduct of the business of the Company or Series. Except as otherwise herein set forth, a majority of the Managers shall control.
 
-
+TODO: Do child LLCs need a human connection to the parent LLC? I.e., can the management/ownership of the child LLC be separate from any of the parent LLC managers/owners?
 
 ###### Section 5.02 - Certain Powers of Managers:
 
@@ -503,13 +500,13 @@ The respective names and addresses of the Manager or Managers of each Series are
 
 (iii) To purchase liability and other insurance to protect the property and business or the Company or Series;
 
-(iv) To hold and own such real and personal properties in the name of the Company or such Series, as appropriate;
+(iv) To hold and own such real, virtual, and personal properties in the name of the Company or such Series, as appropriate;
 
 (v) To invest funds of such Series in time deposits, short-term governmental obligations, commercial paper or other investments;
 
 (vi) Upon the affirmative vote of Managers associated with such Series to sell or otherwise dispose of all or substantially all of the assets of such Series as part of a single transaction or plan as long as such disposition is not in violation of or a cause of a default under any other agreement to which such Series or the Company may be bound;
 
-(vii) To execute on behalf of such Series all instruments and documents, including, without limitation, checks; drafts; notes and other negotiable instruments; mortgages or deeds of trust; security agreements; financing statements; documents providing for the acquisition, mortgage or disposition of such Series’ property; assignments; bills of sale; leases; and any other instruments or documents necessary, appropriate, convenient, advisable or incidental to the business of such Series;
+(vii) To execute on behalf of such Series all instruments and documents, including, without limitation, checks; drafts; notes and other negotiable instruments; mortgages or deeds of trust; security agreements; financing statements; documents providing for the acquisition, mortgage or disposition of such Series’ property; assignments; bills of sale; leases; and any other instruments or documents necessary, appropriate, convenient, advisable or incidental to the business of such Series; and smart contracts under the address of any dually linked decentralized organization or network address
 
 (viii) To employ accountants, legal counsel, managing agents or other experts to perform services for the Company with respect to such Series;
 
@@ -539,6 +536,9 @@ Any Manager may engage in or possess an interest in other business ventures of a
 
 The Managers associated with a Series may from time to time open bank accounts in the name of the Company or such Series, (or in the name of a nominee) as appropriate, and the Managers associated with such Series shall be the only signatories thereon, unless the Managers associated with such Series determine otherwise.
 
+TODO: Insert process for opening a legit crypto accoutn on behalf of the series /designation
+TODO: How to lawfully tie together a DAO and a child LLC
+
 ###### Section 5.06 - Indemnity of the Managers, Employees and Other Agents:
 
 (a) To the fullest extent permitted by applicable law, if the Manager(s) associated with a Series approve, a Manager associated with such Series, any officers, directors, shareholders, partners, members, employees, representatives or agents of such Manager, or their respective affiliates, or any employee or agent of such Series (each, a “Covered Person”) shall be entitled to indemnification from such Series for any loss, damage or claim incurred by such Covered Person by reason of any act or omission performed or omitted by such Covered Person in good faith on behalf of the Company or such Series and in a manner reasonably believed to be within the scope of authority conferred on such Covered Person by this Agreement and any Separate Series Agreement, except that no Covered Person shall be entitled to be indemnified in respect of any loss, damage or claim incurred by such Covered Person by reason of fraud, deceit, gross negligence, willful misconduct or a wrongful taking with respect to such acts or omissions; provided, however, that any indemnity under this Section 5.06 shall be provided out of and to the extent of the assets of the such Series only, and no Covered Person or any other Series shall have any personal liability on account thereof.
@@ -558,7 +558,7 @@ The salaries and other compensation of the Managers associated with a Series sha
 
 ###### Section 5.09 - Removal:
 
- At a meeting called expressly for that purpose, all or any lesser number of Managers of a Series may be removed at any time, with or without cause, by the decision of the Voting Members owning more than fifty percent (50%) of the Percentage Interests in the Series. At a meeting called expressly for that purpose, all or any lesser number of Managers of the Company, but not applicable to the Series Managers, may be removed at any time, with or without cause, by the decision of the Voting Members owning more than fifty percent (50%) of the Percentage Interests in the Company. The removal of a Manager who is also a Member shall not affect the Manager’s rights as a Member and shall not constitute a withdrawal of a Member unless the removal was for cause. In such a case, the Member shall be deemed to have withdrawn from the Series. Cause shall mean proven embezzlement, intoxication or illegal drug use which materially interferes with job performance, absenteeism in excess of two times normal Company policy, wrongful disclosure of Company’s confidential information, conflict of interest, gross insubordination, or conviction of a felony adversely affecting the ability of the Manager to carry on his or her normal duties. In such a removal of Membership, the Member shall be entitled to the value of his or her interest as determined in Section 8.12.
+ At a meeting called expressly for that purpose, all or any lesser number of Managers of a Series may be removed at any time, with or without cause, by the decision of the Voting Members owning more than fifty percent (50%) of the Percentage Interests in the Series. At a meeting called expressly for that purpose, all or any lesser number of Managers of the Company, but not applicable to the Series Managers, may be removed at any time, with or without cause, by the decision of the Voting Members owning more than fifty percent (50%) of the Percentage Interests in the Company. The removal of a Manager who is also a Member shall not affect the Manager’s rights as a Member and shall not constitute a withdrawal of a Member unless the removal was for cause. In such a case, the Member shall be deemed to have withdrawn from the Series. Cause shall mean proven embezzlement, drug or alcohol use which materially interferes with job performance, absenteeism in excess of two times normal Company policy, wrongful disclosure of Company’s confidential information, conflict of interest, gross insubordination, or conviction of a felony adversely affecting the ability of the Manager to carry on his or her normal duties. In such a removal of Membership, the Member shall be entitled to the value of his or her interest as determined in Section 8.12.
 
 
 ###### Section 5.10 - Vacancies:
@@ -566,7 +566,7 @@ The salaries and other compensation of the Managers associated with a Series sha
  Any vacancy occurring for any reason in the number of Managers of the Company may be filled by the affirmative vote of a majority of the remaining Managers then in office, provided that if there are no remaining Managers, the vacancy(ies) shall be filled by the affirmative vote of the Voting Members owning more than fifty percent (50%) of the Percentage Interests in the Company. Any vacancy occurring for any reason in the number of Managers of a Series may be filled by the affirmative vote of a majority of the remaining Managers then in office of said Series, provided that if there are no remaining Managers, the vacancy(ies) shall be filled by the affirmative vote of the Voting Members of such Series owning more than fifty percent (50%) of the Percentage Interests in the Series. Any Manager’s position to be filled by reason of an increase in the number of Managers shall be filled by the affirmative vote of a majority of the Managers then in office or by an election at a special meeting of Voting Members called for that purpose or by the Voting Members’ majority written consent. A Manager elected to fill a vacancy shall be elected for the unexpired term of his or her predecessor in office and shall hold office until expiration of such term and until his or her successor shall be elected and shall qualify or until his or her earlier death, resignation or removal. A Manager chosen to fill a position resulting from an increase in the number of Managers shall hold office until his or her successor shall be elected and shall qualify, or until his or her earlier death, resignation or removal.
 
 
-
+TODO: Replace 'written' actions with Email/Telegram/Loomio
 
 
 #### ARTICLE VI
@@ -678,21 +678,25 @@ Each Member associated with a Series shall contribute to such Series the amount 
 
 (a) Subject to the other provisions of the Agreement (including those governing Members’ respective rights to receive allocations of Net Profits and Net Losses and distributions of cash or other property, and to buy or sell interests), each interest shall have the rights, and be subject to the obligations, identical to those of each other interest of the same class and/or Series.
 
-(b) The aggregate number of Interests that the Company shall have authority to issue is Three Thousand Units (3000) consisting of One Thousand Five Hundred (1500) Voting Units and One Thousand Five Hundred (1500) Non-Voting Units. The Non-Voting interest holders although members, shall be passive, shall not have any power to vote, except as otherwise provided in this Agreement or by law, and shall only obtain a purely economic interest in the Company and/or the particular Series.
+(b) The aggregate number of Interests that the Company shall have authority to issue is Ten Thousand Units (10000) consisting of Five Thousand (5000) Voting Units and Five Thousand (5000) Non-Voting Units. The Non-Voting interest holders although members, shall be passive, shall not have any power to vote, except as otherwise provided in this Agreement or by law, and shall only obtain a purely economic interest in the Company and/or the particular Series.
 
 
 
 Initial Unit Allocation:
 
-1. [[MEMBER ONE]]: 500 (Five Hundred) VOTING Units (50% Ownership)
+1. Eric Roberts: 10000 (One Thousand) VOTING Units (10% Ownership)
 
-2. [[MEMBER TWO]]:   500 (Five Hundred) VOTING Units (50% Ownership)
+2. David Murry:   1000 (One Thousand) VOTING Units (10% Ownership)
 
-3. Unallocated:500 (Five Hundred) VOTING Units
+3. David Pope:   1000 (One Thousand) VOTING Units (10% Ownership)
 
-4. Unallocated:1500 (One Thousand Five Hundred) NON-VOTING Units
+4. Victor Miller:   1000 (One Thousand) VOTING Units (10% Ownership)
 
-(c) Each Member’s holdings of Units shall be evidenced by this agreement and may additionally be a certificate in the form approved by the Manager.
+5. Unallocated: 1000 (One Thousand) VOTING Units
+
+6. Unallocated: 5000 (Five Thousand) NON-VOTING Units
+
+(c) Each Member’s holdings of Units shall be evidenced by this agreement and may additionally be a certificate in the form approved by the Manager, such as tokens issued on a cryptographic data network.
 
 ###### Section 8.06 - Voting Units:
 
@@ -703,7 +707,7 @@ Initial Unit Allocation:
 
 ###### Section 8.07 – Series Ownership
 
-(a)All Membership Interests in the Series shall be denominated in Three Hundred Units, One Hundred Fifty Voting Units and One Hundred Fifty Non-Voting Units, where the aggregate of issued Units shall comprise one hundred percent ownership in the series. Each Voting Unit shall have the rights, and be subject to the obligations, identical to those of each other Non-Voting Unit of the same Series with the exception that only the Voting Units may exercise the right to Vote. Each.
+(a)All Membership Interests in the Series shall be denominated in Three Hundred Units, One Hundred Fifty Voting Units and One Hundred Fifty Non-Voting Units, where the aggregate of issued Units shall comprise one hundred percent ownership in the series. Each Voting Unit shall have the rights, and be subject to the obligations, identical to those of each other Non-Voting Unit of the same Series with the exception that only the Voting Units may exercise the right to Vote.
 
 (b)Majority vote of Voting Units controls the series governance.
 
@@ -786,7 +790,7 @@ No Transferee other than one who is already a Member shall be admitted as a Memb
 
 ###### Section 9.01 - Profits and Losses:
 
-a)Subject to the allocation rules of Section 9.02, Profits with respect to any Series for any Fiscal Year shall be allocated among the Members associated with such Series in proportion to such Members’ Percentage Interests in such Series.
+a)Subject to the allocation rules of Section 9.02, Profits with respect to any Series for any Fiscal Year shall be allocated among the Members associated with such Series in proportion to such Members’ Percentage Interests in such Series, minus the Redistribution outlined in Section 9.15.
 
 (b)Subject to the allocation rules of Section 9.02, Losses with respect to any Series for any Fiscal Year shall be allocated among the Members associated with such Series in proportion to such Members’ Percentage Interests in such Series.
 
@@ -883,6 +887,13 @@ In the case of a transfer of a Membership interest on the death of a Member of a
 
 It is the intention of the parties hereto that the Company be classified as a partnership, and not as an association taxable as a corporation, for federal income-tax purposes, and the provisions of this Agreement shall be interpreted in a manner consistent with such intention. No election shall be filed with the Internal Revenue Service (or the tax authorities of any State) to have the Company taxable other than as a partnership for income-tax purposes without the prior consent of all Voting and Non-Voting Members.
 
+####### Section 9.15 - Redistribution
+
+Unless otherwise decided by a vote by Members, each Series is subject to a redistribution protocol at the end of each fiscal year.
+TODO: % for Pope's accounting?
+% that goes to parent company members?
+% that goes to all other child(series) companies?
+
 
 #### ARTICLE X
 
@@ -922,6 +933,7 @@ No additional Members or assignees of Membership Interests shall be entitled to 
 (i)  by the majority written agreement of all Members; or
 
 (ii) upon the entry of decree of judicial dissolution under §18-802 of the Act.
+TODO: Update this to Wyoming's code
 
 (b)The death, retirement, resignation, expulsion, bankruptcy or dissolution of any Member or the occurrence of any event that terminates the continued membership of any Member in the Company shall not in and of itself cause a dissolution of the Company.
 
@@ -942,6 +954,8 @@ No additional Members or assignees of Membership Interests shall be entitled to 
 (b)Other than in connection with a transfer of Membership Interests in accordance with this Agreement, a Member associated with a Series shall not take any voluntary action (including, without limitation, resignation) that directly causes it to cease to be a Member of the Company associated with such Series. Unless otherwise approved by Members associated with a Series owning a Majority Interest of such Series, a Member who ceases to be a Member associated with such Series (a “Resigning Member”), regardless of whether such termination was the result of a voluntary act by such Member, shall not be entitled to receive any distributions from the Company with respect to such Series in excess of those distributions to which such Member would have been entitled had such Member remained a Member associated with such Series. Except as otherwise expressly provided herein, a Resigning Member shall immediately become an assignee associated with such Series. Damages for breach of this Section 12.02(b) shall be monetary damages only (and not specific performance), and such damages may be offset against distributions by the Company with respect to such Series to which the Resigning Member would otherwise be entitled.
 
 (c) The termination and winding up of a Series shall not cause a dissolution of the Company (even if there are no remaining Series) or the termination of any other Series. The termination of a Series shall not affect the limitation on liabilities of such Series or any other Series provided by this Agreement and the Act.
+
+TODO: Series can be terminated by Company (child can be terminated by parent) under certain conditions such as failure to pay into Redistribution protocol
 
 ###### Section 12.03 - Winding Up, Liquidation and Distribution of Assets of a Series Upon Termination of Such Series:
 
@@ -967,11 +981,11 @@ Upon the dissolution of the Company pursuant to Section 12.01, the Company shall
 
 ###### Section 12.05 - Certificate of Cancellation:
 
-If a dissolution of the Company occurs and all debts, liabilities and obligations of the Company, whether or not associated with any Series, have been satisfied (whether by payment or reasonable provision for payment) and all of the remaining property and assets of the Company, whether or not associated with any Series, have been distributed, a certificate of cancellation as required by the Act shall be jointly executed and filed by the members of the Company, as authorized persons, within the meaning of the Act, with the [[STATE OF INCORPORATION]] Secretary of State.
+If a dissolution of the Company occurs and all debts, liabilities and obligations of the Company, whether or not associated with any Series, have been satisfied (whether by payment or reasonable provision for payment) and all of the remaining property and assets of the Company, whether or not associated with any Series, have been distributed, a certificate of cancellation as required by the Act shall be jointly executed and filed by the members of the Company, as authorized persons, within the meaning of the Act, with the Wyoming Secretary of State.
 
 ###### Section 12.06 - Effect of Filing Certificate of Cancellation:
 
-Upon the filing of a certificate of cancellation with the [[STATE OF INCORPORATION]] Secretary of State, pursuant to Section 12.05, the existence of the Company shall cease.
+Upon the filing of a certificate of cancellation with the Wyoming Secretary of State, pursuant to Section 12.05, the existence of the Company shall cease.
 
 ###### Section 12.07 - Returns of Contributions Nonrecourse to Other Members:
 
