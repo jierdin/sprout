@@ -1,22 +1,14 @@
-[[STATE OF INCORPORATION]]Notes:
-If State = Delaware, series Act = Delaware Limited Liability Company Act, 6 Del. C. §18-101, et seq.,
-If [[STATE OF INCORPORATION]] = Wyoming, then
-[[ACT]] = ??
-
-NOTE: This agreement was originally intended for Delaware, but changes are being made to adapt it to Wyoming.
-
-## AGREEMENT OF [[COMPANY]],
-
-#### a Series Limited Liability Company
+TODO: Make an Aragon DAO and add it to Exhibit D
+TODO: Define Distribution Network , Distribution X
 
 
-### Table of Contents
+# AGREEMENT OF SPROUT,
 
+### *a Series Limited Liability Company*
 
+### **Table of Contents**
 
 ###### RECITALS
-
-
 
 ######  ARTICLE I
 
@@ -25,7 +17,6 @@ DEFINITIONS
 * Section 1.01 - Definitions
 
 * Section 1.02 - Headings
-
 
 
 ###### ARTICLE II
@@ -43,13 +34,11 @@ FORMATION OF COMPANY
 * Section 2.05 - Term
 
 
-
 ###### ARTICLE III
 
 BUSINESS OF COMPANY
 
 * Section 3.01 - Business of Company
-
 
 
 ###### ARTICLE IV
@@ -61,7 +50,6 @@ NAMES AND ADDRESSES OF MEMBERS
 * Section 4.02 - Presidents and Executive Vice Presidents
 
 * Section 4.03 - Manager
-
 
 
 ###### ARTICLE V
@@ -89,7 +77,6 @@ RIGHTS AND DUTIES OF MEMBERS & MANAGERS
 * Section 5.10 - Vacancies
 
 
-
 ###### ARTICLE VI
 
 RIGHTS AND OBLIGATIONS OF MEMBERS
@@ -103,7 +90,6 @@ RIGHTS AND OBLIGATIONS OF MEMBERS
 * Section 6.04 - Priority and Return of Capital
 
 * Section 6.05 - Liability of a Member to the Company
-
 
 
 ###### ARTICLE VII
@@ -129,7 +115,6 @@ MEETINGS OF MEMBERS
 * Section 7.09 - Action by Members Without a Meeting
 
 * Section 7.10 - Waiver of Notice
-
 
 
 ###### ARTICLE VIII
@@ -172,11 +157,12 @@ CONTRIBUTIONS TO THE COMPANY AND CAPITAL ACCOUNTS
 
 * Section 8.18 – Admission of Transferee
 
+* Section 8.19 – Unpermitted Transfers
 
 
 ###### ARTICLE IX
 
-ALLOCATIONS AND DISTRIBUTIONS
+ALLOCATIONS, DISTRIBUTIONS, AND REDISTRIBUTION
 
 * Section 9.01 - Profits and Losses
 
@@ -206,14 +192,13 @@ ALLOCATIONS AND DISTRIBUTIONS
 
 * Section 9.14 - Tax Classification
 
-
+* Section 9.15 - Redistribution
 
 ###### ARTICLE X
 
 TRANSFERABILITY
 
 * Section 10.01 – Transfer
-
 
 
 ###### ARTICLE XI
@@ -223,7 +208,6 @@ ISSUANCE AND TRANSFER OF MEMBERSHIP INTERESTS
 * Section 11.01 - Additional Members and Assignees
 
 * Section 11.02 - Retroactive Allocations
-
 
 
 ###### ARTICLE XII
@@ -242,7 +226,6 @@ TERMINATION OF SERIES; DISSOLUTION AND TERMINATION OF THE COMPANY
 * Section 12.06 - Effect of Filing Certificate of Cancellation
 
 * Section 12.07 - Returns of Contributions Nonrecourse to Other Members
-
 
 
 ###### ARTICLE XIII
@@ -281,38 +264,30 @@ MISCELLANEOUS PROVISIONS
 
 
 
-
-
-
-
-
 ###### EXHIBIT A     Members and Interests in Each Series
 
 ###### EXHIBIT B     Form of Separate Series Agreement
 
 ###### EXHIBIT C     Agreement to Terminate Series
 
+###### EXHIBIT D     Corresponding Distributed Organizations
+
+### SERIES LIMITED LIABILITY COMPANY AGREEMENT OF SPROUT
 
 
 
-
-### SERIES LIMITED LIABILITY COMPANY AGREEMENT OF [[COMPANY]]
-
-
-
-THIS LIMITED LIABILITY COMPANY AGREEMENT is made and entered into, and is effective as of [[INCORPORATION DATE]], by and between [[MEMBER ONE]], as a Member of the Company (as defined below), and [[MEMBER TWO]], as a Member of the Company, and each other Person (as defined below) who is admitted to the Company as a member of the Company. Promptly after the formation of the Company, the Company shall be added as a party to the Agreement.
+THIS LIMITED LIABILITY COMPANY AGREEMENT is made and entered into, and is effective as of [[INCORPORATION DATE]], by and between Eric Roberts, as a Member of the Company (as defined below), and David Murry, as a Member of the Company, and each other Person (as defined below) who is admitted to the Company as a member of the Company. Promptly after the formation of the Company, the Company shall be added as a party to the Agreement.
 
 
 
 #### RECITALS
 
-WHEREAS, the parties hereto desire to form a limited liability series company pursuant to the [[STATE OF INCORPORATION]] Limited Liability Company Act by filing a Certificate of Formation of the Company with the office of the Secretary of State of the State of [[STATE OF INCORPORATION]] and entering into this Agreement; and
+WHEREAS, the parties hereto desire to form a limited liability series company pursuant to the Wyoming Limited Liability Company Act by filing a Certificate of Formation of the Company with the office of the Secretary of State of the State of Wyoming and entering into this Agreement; and
 
 
-WHEREAS, it is intended by the parties hereto that each property acquired by the Company shall be a separate series with respect to the Members of the Company and that the debts, liabilities and obligations incurred, contracted for or otherwise existing with respect to a particular series of the Company will be enforceable against the assets of such series only, and not against the assets of the Company generally or any other series thereof, and none of the debts, liabilities, obligations and expenses incurred, contracted for or otherwise existing with respect to the Company generally or any other series thereof shall be enforceable against the assets of such series; and
+WHEREAS, it is intended by the parties hereto that each property acquired and venture undertaken by the Company shall be a separate series with respect to the Members of the Company and that the debts, liabilities and obligations incurred, contracted for or otherwise existing with respect to a particular series of the Company will be enforceable against the assets of such series only, and not against the assets of the Company generally or any other series thereof, and none of the debts, liabilities, obligations and expenses incurred, contracted for or otherwise existing with respect to the Company generally or any other series thereof shall be enforceable against the assets of such series; and
 
 NOW, THEREFORE, in consideration of the mutual promises and obligations contained herein, the parties, intending to be legally bound, hereby agree as follows:
-
 
 
 #### ARTICLE I
@@ -323,7 +298,7 @@ NOW, THEREFORE, in consideration of the mutual promises and obligations containe
 
 The following terms used in this Agreement shall have the following meanings:
 
-“Act” shall mean the [[SERIES ACT]] as amended from time to time.
+“Act” shall mean Wyoming HB126 as amended from time to time.
 
 “Agreement” shall mean this Limited Liability Company Agreement, as amended, modified, supplemented or restated from time to time.
 
@@ -331,11 +306,14 @@ The following terms used in this Agreement shall have the following meanings:
 
 “Capital Contribution” shall mean, with respect to any Member, any contribution to the Company with respect to a Series in cash,  cryptocurrency, or other property (at such other property's initial Gross Asset Value) by such Member whenever made. “Initial Capital Contribution” shall mean, with respect to any Member, the initial contribution to the Company by such Member with respect to a Series pursuant to this Agreement.
 
-“Certificate of Formation” shall mean the Certificate of Formation of the Company and any and all amendments thereto and restatements thereof filed on behalf of the Company with the office of the Secretary of State of the State of [[STATE OF INCORPORATION]] pursuant to the Act.
+“Certificate of Formation” shall mean the Certificate of Formation of the Company and any and all amendments thereto and restatements thereof filed on behalf of the Company with the office of the Secretary of State of the State of Wyoming pursuant to the Act.
 
 “Code” shall mean the Internal Revenue Code of 1986, as amended from time to time, or any superseding federal tax law. A reference herein to a specific Code Section refers, not only to such specific Section, but also to any corresponding provision of any superseding federal tax statute, as such specific Section or such corresponding provision is in effect on the date of application of the provisions of this Agreement containing such reference.
 
-“Company” shall refer to [[COMPANY]], formed and continued under and pursuant to the Act and this Agreement.
+“Company” shall refer to Sprout, formed and continued under and pursuant to the Act and this Agreement.
+
+"Critical Vote" shall refer to a vote which requires 70% of voting members to agree, not including those who abstain. Members will be notified of a critical vote at least 2 days in advanced by email, and voting shall be open for at least 72 hours but no more than 1 week. Critical votes will be tallied using the company or series's corresponding distributed organization, as per Exhibit D.
+
 
 “Depreciation” shall mean, with respect to a Series, and for each Fiscal Year or other period, an amount equal to the depreciation, amortization or other cost recovery deduction allowable with respect to an asset associated with such Series for such Fiscal Year or other period; provided, however, that if the Gross Asset Value of an asset associated with such Series differs from its adjusted basis for federal income-tax purposes at the beginning of such Fiscal Year or other period, Depreciation shall be an amount that bears the same ratio to such beginning Gross Asset Value as the federal income-tax depreciation, amortization or other cost recovery deduction with respect to such asset for such Fiscal Year or other period bears to such beginning adjusted tax basis; and provided further, that if the federal income-tax deprecia­tion, amortization or other cost recovery deduction for such Fiscal Year or other period is zero, Depreciation shall be determined with reference to such beginning Gross Asset Value using any reasonable method selected by Members associated with such Series holding a Majority Interest in such Series.
 
@@ -358,7 +336,7 @@ If the Gross Asset Value of an asset has been determined or adjusted pursuant to
 “Majority Interest” shall mean, with respect to a Series or the Company as applicable, the vote of Membership Interests of one or more Members that in the aggregate exceed 50% of all VOTING Percentage Interests owned by Members associated with respect to such Series or the Company as applicable. Except as otherwise provided, non voting Members shall have no voting rights.
 
 “Member” shall include:
-(i) Eric Roberts, David Murry, Victor Miller, David Pope, each in their capacity as a member of the Company associated with a Series (as such Series may, from time to time, be created in accordance with the terms of this Agreement), and
+(i) Eric Roberts, David Murry, Victor Miller, David Pope, Yuebin Dong Roberts, each in their capacity as a member of the Company associated with a Series (as such Series may, from time to time, be created in accordance with the terms of this Agreement), and
 (ii) Persons later admitted as Members of the Company, who shall be admitted in accordance with this Agreement. Members of the Company shall at all times be Members of the Company until the Company is dissolved, wound up and terminated in accordance with the Act and this Agreement, notwithstanding the fact that there may or may not be any Series at any particular point in time. The Company shall be controlled by a simple majority of Member(s) holding more than 50% of the Voting units in the Company who have the powers to make any decision not in violation of this agreement including but not limited to appointment and removal of Company manager(s).
 
 “Membership Interest” shall mean a Member’s entire limited liability company interest in the Company with respect to a Series.
@@ -376,6 +354,10 @@ iv)  gain or loss resulting from any disposition of any asset of the Company ass
 v)   in lieu of the depreciation, amortization and other cost recovery deductions taken into account in computing such taxable income or loss, there shall be taken into account Depreciation associated with such Series for such Fiscal Year or other period, computed in accordance with the definition of “Depreciation” above.
 
 “Reserves” shall mean, with respect to a Series, funds set aside or amounts allocated to reserves that shall be maintained in amounts deemed sufficient by the Members associated with such Series for working capital and to pay taxes, insurance, debt service or other costs or expenses incident to the ownership or operation of the business of the Company with respect to such Series, or incident to the liquidation of such Series pursuant to Section 12.03.
+
+"Redistribution" or "Redistribution Protocol" shall refer to a process by which the first 10% of profit of a Series, that is owned at by the Company with at least a 10% stake, is divided according to Section 9.15.
+
+"Redistribution Network" refers to the subset of Series participating in the Redistribution Protocol. By default, Series are participants in the network but may request a Critical Vote to remove themselves from the network. 
 
 “Separate Property” shall mean the respective properties specified in the respective Separate Series Agreements.
 
@@ -397,7 +379,7 @@ The headings and subheadings in this Agreement are included for convenience and 
 
 ###### Section 2.01 - Formation and Series Creation:
 
-(a) The Members hereby authorize the Manager(s) to execute and deliver a Certificate of Formation to the [[STATE OF INCORPORATION]] Secretary of State in accordance with and pursuant to the Act and to execute and deliver any documents necessary to register the Company as a foreign limited liability company.
+(a) The Members hereby authorize the Manager(s) to execute and deliver a Certificate of Formation to the Wyoming Secretary of State in accordance with and pursuant to the Act and to execute and deliver any documents necessary to register the Company as a foreign limited liability company.
 
 (b) The Members hereby agree to form the Company as a limited liability company under and pursuant to the provisions of the Act and agree that the rights, duties and liabilities of the Members shall be as provided in the Act, except as otherwise provided herein.
 
@@ -405,13 +387,13 @@ The headings and subheadings in this Agreement are included for convenience and 
 
 (d) As established from time to time in accordance with this Agreement, there may be designated additional Series having separate rights, powers or duties with respect to Separate Property or obligations or profits and losses associated with Separate Property or obligations and, to the extent provided in this Agreement and a Separate Series Agreement, and may have a separate business purpose or investment objective. A Member may be a member of one or more Series.
 
-(e) Without the need for the consent of any Person, the Founders may establish one or more additional Series as they may jointly determine in their sole discretion. The terms of each additional Series shall be as set forth in this Agreement and a separate agreement establishing such Series (a “Separate Series Agreement”) substantially in the form of Exhibit B attached hereto. A Separate Series Agreement must be executed by the Founders as Members associated with such Series. To the extent that a Separate Series Agreement conflicts with this Agreement, this Agreement shall control.
+(e) Without the need for the consent of any Person, the Founders may establish one or more additional Series at will, and the Members may established one or more Series through the process of a Critical Vote. The terms of each additional Series shall be as set forth in this Agreement and a separate agreement establishing such Series (a “Separate Series Agreement”) will be attached to Exhibit B. A Separate Series Agreement must be executed by the Founders as Members associated with such Series. To the extent that a Separate Series Agreement conflicts with this Agreement, this Agreement shall control. A Series Operating Agreement may not deviate substantially from the template provided unless a Critical Vote has affirmed the changes.
 
 (f) No debt, liability or obligation of a Series shall be a debt, liability or obligation of any other Series. The debts, liabilities and obligations incurred, contracted for or otherwise existing with respect to a Series shall be enforceable against the assets of such Series only and not against any other assets of the Company generally or any other Series and none of the debts, liabilities, obligations and expenses incurred, contracted for or otherwise existing with respect to the Company generally or any other Series shall be enforceable against the assets of such Series. Separate and distinct records shall be maintained for each and every Series, and assets associated with any such Series shall be accounted for separately from the other assets of the Company, or any other Series of the Company.
 
-(g) The Founders shall be deemed admitted as Members of the Company associated with a newly created Series, upon their execution of a counterpart signature page to the relevant Separate Series Agreement.
+(g) The Company shall be a Member of any newly created Series, upon their execution of a counterpart signature page to the relevant Separate Series Agreement.
 
-(h) Exhibit A attached hereto shall be updated from time to time as is necessary to reflect accurately the information contained therein, including, without limitation, the establishment of additional Series and the admission of additional Members to the Company associated with such Series. Any revision to Exhibit A attached hereto made in accordance with this Agreement shall not be deemed an amendment to this Agreement. Any reference in this Agreement to Exhibit A attached hereto shall be deemed to be a reference to Exhibit A as amended and in effect from time to time.
+(h) Exhibits A and D shall be updated from time to time as is necessary to reflect accurately the information contained therein, including, without limitation, the establishment of additional Series and the admission of additional Members to the Company associated with such Series. Any revision to Exhibit A or D made in accordance with this Agreement shall not be deemed an amendment to this Agreement.
 
 ###### Section 2.02 - Name:
 
@@ -423,7 +405,7 @@ The principal place of business of the Company shall be c/o [[ADDRESS ONE]]. The
 
 ###### Section 2.04 - Registered Office and Registered Agent:
 
-The Company’s registered office in the State of Wyoming shall be at the office of its registered agent: [[REGISTERED AGENT ADDRESS]], and the Company‘s registered agent in the State of Wyoming shall be Agents and Corporations, Inc. At any time, the registered office and registered agent of the Company may be changed by filing the address of the new registered office and/or the name of the new registered agent with the Secretary of State of the State of Wyoming pursuant to the Act.
+The Company’s registered office in the State of Wyoming shall be at the office of its registered agent: [[REGISTERED AGENT ADDRESS]], and the Company‘s registered agent in the State of Wyoming shall be [[DAPCA]]. At any time, the registered office and registered agent of the Company may be changed by filing the address of the new registered office and/or the name of the new registered agent with the Secretary of State of the State of Wyoming pursuant to the Act.
 
 ###### Section 2.05 - Term:
 
@@ -451,7 +433,7 @@ The Company and each Series shall have the power to do any or all of the acts ne
 
 ###### Section 4.01 - Members:
 
-The respective names and addresses of the Members of each Series are set forth on Exhibit A attached hereto.
+The respective names and addresses of the Members of each Series are set forth on Exhibit A.
 
 
 ###### Section 4.02 – Chief Executive Officer:
@@ -470,7 +452,7 @@ The following titles are appointed with the following authority. The majority in
 
 (a)  President. The President shall be the chief executive officer of the Company, shall preside at all meetings of the Members, shall have general and active management of the business of the Company, and shall execute bonds, mortgages, loans, leases and contracts for the Company, and is authorized to open and sign bank accounts and to authorize other officers or persons to open and sign such accounts. If the President is unable or unavailable to serve, the Vice President shall assume the role of President until such time that the President is available or able to serve.
 
-(b.)  Secretary. The Secretary shall record all the proceedings of the meetings of the Members and notice of all meetings of the Members, and shall perform such other duties as may be prescribed by the President, under whose supervision he shall be.
+(b.)  Secretary. The Secretary shall record all the proceedings of the meetings of the Members and notice of all meetings of the Members, and shall perform such other duties as may be prescribed by the President, under whose supervision he or she shall be.
 
 (c.)  Treasurer. The Treasurer shall have the custody of the corporate funds and securities and shall keep full and accurate accounts of receipts and disbursements in books belonging to the Company and shall deposit all moneys and other valuable effects in the name and to the credit of the Company in such depositories as may be designated by the President. The Treasurer shall disburse the funds of the Company as may be ordered by the President taking proper vouchers for such disbursements, and shall render to the President an account of all his transactions as Treasurer and of the financial condition of the Company.
 
@@ -478,7 +460,6 @@ The foregoing officers shall serve until their respective successors are chosen 
 
 The respective names and addresses of the Manager or Managers of each Series are set forth on its separate series agreement and shall be called and have the authority accorded by the above definitions. The Manager or Managers of each Series shall serve until each of his or her successor is elected.
 
-TODO: Add in rotation of offices? 2 year term max, until waiting another 2 years?
 
 #### ARTICLE V
 
@@ -486,9 +467,8 @@ TODO: Add in rotation of offices? 2 year term max, until waiting another 2 years
 
 ###### Section 5.01 - Management:
 
-  The business and affairs of a Series shall be vested in the Voting Members of that Series in accordance with this Agreement. The business and affairs of the Company shall be vested in the Voting Members of the Company. Notwithstanding the foregoing, the management of the Company or a Series may be vested in one or more Managers who shall be chosen in the manner provided for herein. A Manager need not be a Member. Only Voting Members or Managers associated with a Series shall direct, manage and control the business and affairs of such Series. All Managers shall have the right to vote, weighted by their shares, as to the management and conduct of the business of the Company or Series. Except as otherwise herein set forth, a majority of the Managers shall control.
+The business and affairs of a Series shall be vested in the Voting Members of that Series in accordance with this Agreement. The business and affairs of the Company shall be vested in the Voting Members of the Company. Notwithstanding the foregoing, the management of the Company or a Series may be vested in one or more Managers who shall be chosen in the manner provided for herein. A Manager need not be a Member. Only Voting Members or Managers associated with a Series shall direct, manage and control the business and affairs of such Series. All Managers shall have the right to vote, weighted by their shares, as to the management and conduct of the business of the Company or Series. Except as otherwise herein set forth, a majority of the Managers shall control.
 
-TODO: Do child LLCs need a human connection to the parent LLC? I.e., can the management/ownership of the child LLC be separate from any of the parent LLC managers/owners?
 
 ###### Section 5.02 - Certain Powers of Managers:
 
@@ -506,7 +486,7 @@ TODO: Do child LLCs need a human connection to the parent LLC? I.e., can the man
 
 (vi) Upon the affirmative vote of Managers associated with such Series to sell or otherwise dispose of all or substantially all of the assets of such Series as part of a single transaction or plan as long as such disposition is not in violation of or a cause of a default under any other agreement to which such Series or the Company may be bound;
 
-(vii) To execute on behalf of such Series all instruments and documents, including, without limitation, checks; drafts; notes and other negotiable instruments; mortgages or deeds of trust; security agreements; financing statements; documents providing for the acquisition, mortgage or disposition of such Series’ property; assignments; bills of sale; leases; and any other instruments or documents necessary, appropriate, convenient, advisable or incidental to the business of such Series; and smart contracts under the address of any dually linked decentralized organization or network address
+(vii) To execute on behalf of such Series all instruments and documents, including, without limitation, checks; drafts; notes and other negotiable instruments; mortgages or deeds of trust; security agreements; financing statements; documents providing for the acquisition, mortgage or disposition of such Series’ property; assignments; bills of sale; leases; and any other instruments or documents necessary, appropriate, convenient, advisable or incidental to the business of such Series; and smart contracts under the address of any corresponding distributed organization or network address as listed in Exhibit D
 
 (viii) To employ accountants, legal counsel, managing agents or other experts to perform services for the Company with respect to such Series;
 
@@ -531,13 +511,10 @@ Each Manager associated with a Series shall perform his or her duties as a Manag
 Any Manager may engage in or possess an interest in other business ventures of any nature or description, independently or with others, similar or dissimilar to the business of the Company or any Series, and the Company, any Series and the Members shall have no rights by virtue of this Agreement or any Separate Series Agreement in and to such independent ventures or the income or profits derived therefrom, and the pursuit of any such venture, even if competitive with the business of the Company or any Series, shall not be deemed wrongful or improper. No Manager shall be obligated to present any particular investment opportunity to the Company or any Series even if such opportunity is of a character that, if presented to the Company or such Series, could be taken by the Company or such Series, and any Manager shall have the right to take for its own account (individually or as a partner or fiduciary) or to recommend to others any such particular investment opportunity.
 
 
-
 ###### Section 5.05 - Bank Accounts:
 
 The Managers associated with a Series may from time to time open bank accounts in the name of the Company or such Series, (or in the name of a nominee) as appropriate, and the Managers associated with such Series shall be the only signatories thereon, unless the Managers associated with such Series determine otherwise.
 
-TODO: Insert process for opening a legit crypto accoutn on behalf of the series /designation
-TODO: How to lawfully tie together a DAO and a child LLC
 
 ###### Section 5.06 - Indemnity of the Managers, Employees and Other Agents:
 
@@ -553,12 +530,12 @@ The salaries and other compensation of the Managers associated with a Series sha
 
 ###### Section 5.08 - Resignation:
 
- Any Manager of the Company may resign at any time by giving written notice to the Members of the Company. Any Manager of a Series may resign at any time by giving written notice to the Members of the Series. The resignation of any Manager shall take effect upon receipt of notice thereof or at such later time as shall be specified in such notice; and, unless otherwise specified therein, the acceptance of such resignation shall not be necessary to make it effective. The resignation of a Manager who is also a Member shall not affect the Manager’s rights as a Member and shall not constitute a withdrawal of a Member.
+ Any Manager of the Company may resign at any time by giving email notice to the Members of the Company. Any Manager of a Series may resign at any time by giving email notice to the Members of the Series. The resignation of any Manager shall take effect upon receipt of notice thereof or at such later time as shall be specified in such notice; and, unless otherwise specified therein, the acceptance of such resignation shall not be necessary to make it effective. The resignation of a Manager who is also a Member shall not affect the Manager’s rights as a Member and shall not constitute a withdrawal of a Member.
 
 
 ###### Section 5.09 - Removal:
 
- At a meeting called expressly for that purpose, all or any lesser number of Managers of a Series may be removed at any time, with or without cause, by the decision of the Voting Members owning more than fifty percent (50%) of the Percentage Interests in the Series. At a meeting called expressly for that purpose, all or any lesser number of Managers of the Company, but not applicable to the Series Managers, may be removed at any time, with or without cause, by the decision of the Voting Members owning more than fifty percent (50%) of the Percentage Interests in the Company. The removal of a Manager who is also a Member shall not affect the Manager’s rights as a Member and shall not constitute a withdrawal of a Member unless the removal was for cause. In such a case, the Member shall be deemed to have withdrawn from the Series. Cause shall mean proven embezzlement, drug or alcohol use which materially interferes with job performance, absenteeism in excess of two times normal Company policy, wrongful disclosure of Company’s confidential information, conflict of interest, gross insubordination, or conviction of a felony adversely affecting the ability of the Manager to carry on his or her normal duties. In such a removal of Membership, the Member shall be entitled to the value of his or her interest as determined in Section 8.12.
+ At a meeting called expressly for that purpose, all or any lesser number of Managers of a Series may be removed at any time, with or without cause, by the decision of the Voting Members owning more than fifty percent (50%) of the Percentage Interests in the Series. At a meeting called expressly for that purpose, all or any lesser number of Managers of the Company, but not applicable to the Series Managers, may be removed at any time, with or without cause, by the decision of the Voting Members owning more than fifty percent (50%) of the Percentage Interests in the Company. The removal of a Manager who is also a Member shall not affect the Manager’s rights as a Member and shall not constitute a withdrawal of a Member unless the removal was for cause. In such a case, the Member shall be deemed to have withdrawn from the Series. Cause shall mean proven embezzlement (including non-participation in the Redistribution Protocol), drug or alcohol use which materially interferes with job performance, absenteeism in excess of two times normal Company policy, wrongful disclosure of Company’s confidential information, conflict of interest, gross insubordination, or conviction of a felony adversely affecting the ability of the Manager to carry on his or her normal duties. In such a removal of Membership, the Member shall be entitled to the value of his or her interest as determined by averaging the estimated value offered by each Voting Member.
 
 
 ###### Section 5.10 - Vacancies:
@@ -566,7 +543,7 @@ The salaries and other compensation of the Managers associated with a Series sha
  Any vacancy occurring for any reason in the number of Managers of the Company may be filled by the affirmative vote of a majority of the remaining Managers then in office, provided that if there are no remaining Managers, the vacancy(ies) shall be filled by the affirmative vote of the Voting Members owning more than fifty percent (50%) of the Percentage Interests in the Company. Any vacancy occurring for any reason in the number of Managers of a Series may be filled by the affirmative vote of a majority of the remaining Managers then in office of said Series, provided that if there are no remaining Managers, the vacancy(ies) shall be filled by the affirmative vote of the Voting Members of such Series owning more than fifty percent (50%) of the Percentage Interests in the Series. Any Manager’s position to be filled by reason of an increase in the number of Managers shall be filled by the affirmative vote of a majority of the Managers then in office or by an election at a special meeting of Voting Members called for that purpose or by the Voting Members’ majority written consent. A Manager elected to fill a vacancy shall be elected for the unexpired term of his or her predecessor in office and shall hold office until expiration of such term and until his or her successor shall be elected and shall qualify or until his or her earlier death, resignation or removal. A Manager chosen to fill a position resulting from an increase in the number of Managers shall hold office until his or her successor shall be elected and shall qualify, or until his or her earlier death, resignation or removal.
 
 
-TODO: Replace 'written' actions with Email/Telegram/Loomio
+
 
 
 #### ARTICLE VI
@@ -575,16 +552,15 @@ TODO: Replace 'written' actions with Email/Telegram/Loomio
 
 ###### Section 6.01 - Limitation of Liability:
 
-Except as otherwise provided in this Agreement or the Act, the debts, obligations and liabilities of the Company or a Series, whether arising in contract, torts or otherwise, shall be solely the debts, obligations and liabilities of the Company or such Series, as the case may be, and no Member or Manager shall be obligated personally for any such debt, obligation or liability of the Company or such Series solely by reason of being a Member or Manager. Each Member shall nevertheless be liable for its obligations to make Capital Contributions pursuant to Sections 8.01 and 8.02.
+Except as otherwise provided in this Agreement or the Act, the debts, obligations and liabilities of the Company or a Series, whether arising in contract, torts or otherwise, shall be solely the debts, obligations and liabilities of the Company or such Series, as the case may be, and no Member or Manager shall be obligated personally for any such debt, obligation or liability of the Company or such Series solely by reason of being a Member or Manager.
 
 ###### Section 6.02 - List of Members:
 
-Upon the written request of any Member associated with a Series for any purpose reasonably related to such Member’s interest in the Company with respect to such Series, the Members associated with such Series shall provide to such Member a list showing the names, addresses and Membership Interests of all Members associated with such Series.
+Upon the emailed request of any Member associated with a Series for any purpose reasonably related to such Member’s interest in the Company with respect to such Series, the Members associated with such Series shall provide to such Member a list showing the names, addresses and Membership Interests of all Members associated with such Series.
 
 ###### Section 6.03 - Company Books:
 
-The Managers associated with a Series shall maintain and preserve, during the existence of such Series, the accounts, books and other relevant Series documents described in Section 9.10. Notwithstanding anything in this Agreement to the contrary, separate and distinct records shall be maintained for each and every Series, and the assets associated with each Series shall be held and accounted for separately from the other assets of the Company or of any other Series. Upon reasonable written request, each Member associated with a Series shall have the right, at a time during ordinary business hours, as reasonably determined by the Managers associated with such Series, to inspect and copy, at the requesting Member’s expense, the books and records of such Series for any purpose reasonably related to such Member’s interest with respect to such Series.
-
+The Managers associated with a Series shall maintain and preserve, during the existence of such Series, the accounts, books and other relevant Series documents described in Section 9.10. Notwithstanding anything in this Agreement to the contrary, separate and distinct records shall be maintained for each and every Series, and the assets associated with each Series shall be held and accounted for separately from the other assets of the Company or of any other Series. Upon reasonable emailed request, each Member associated with a Series shall have the right, at a time during ordinary business hours, as reasonably determined by the Managers associated with such Series, to inspect and copy, at the requesting Member’s expense, the books and records of such Series for any purpose reasonably related to such Member’s interest with respect to such Series.
 
 ###### Section 6.04 - Priority and Return of Capital:
 
@@ -593,9 +569,6 @@ Except as may be expressly provided in Article IX, no Member associated with a S
 ###### Section 6.05 - Liability of a Member to the Company:
 
  A Member who receives a distribution from the Company with respect to a Series is liable to the Company with respect to such Series or to others only to the extent provided by the Act and other applicable law.
-
-
-
 
 
 #### ARTICLE VII
@@ -608,19 +581,19 @@ Meetings of the Voting Members associated with a Series, for any purpose or purp
 
 ###### Section 7.02 - Place of Meetings:
 
-The Voting Members may designate any place, either within or outside the State of [[STATE OF INCORPORATION]], as the place of meeting for any meeting of the Voting Members. If a designation is not made, or if a special meeting be otherwise called, the place of meeting shall be the principal place of business of the Company. Any meeting of the Voting Members may also take place by teleconferencing so long as a quorum (as defined in Section 7.06 below) participate in the same.
+Any meeting of the Voting Members will take place by teleconferencing so long as a quorum (as defined in Section 7.06 below) participate.
 
 ###### Section 7.03 - Notice of Meetings:
 
-Except as provided in Section 7.04, written notice stating the place, day and hour of the meeting and the purpose or purposes for which the meeting is called shall be delivered not less than five nor more than thirty days before the date of the meeting, either personally or by mail, by or at the direction of the Managers or person calling the meeting, to each Voting Member entitled to vote at such meeting. If mailed, such notice shall be deemed to be delivered two calendar days after being deposited in the United States mail, addressed to the Voting Member at its address as it appears on the books of the Company, with postage thereon prepaid.
+Except as provided in Section 7.04, emailed notice stating the teleconference address, day and hour of the meeting and the purpose or purposes for which the meeting is called shall be delivered not less than five nor more than thirty days before the date of the meeting, either personally or  by email, by or at the direction of the Managers or person calling the meeting, to each Voting Member entitled to vote at such meeting.
 
 ###### Section 7.04 - Meeting of All Voting Members:
 
- If all the Voting Members associated with a Series shall meet at any time and place, either within or outside the State of [[STATE OF INCORPORATION]], or participate in a teleconference meeting, and consent to the holding of a meeting at such time and place or by teleconference, such meeting shall be valid without call or notice, and at such meeting lawful action may be taken.
+ If all the Voting Members associated with a Series shall meet at any time and place, either within or outside the State of Wyoming, or participate in a teleconference meeting, and consent to the holding of a meeting at such time and place or by teleconference, such meeting shall be valid without call or notice, and at such meeting lawful action may be taken.
 
 ###### Section 7.05 - Record Date:
 
-For the purpose of determining Voting Members entitled to notice of or to vote at any meeting of Voting Members or any adjournment thereof, or Members entitled to receive payment of any distribution, or in order to make a determination of Members for any other purpose, the day immediately prior to the date on which notice of the meeting is mailed or the day immediately prior to the date on which the resolution declaring such distribution is adopted, as the case may be, shall be the record date for such determination of Members. When a determination of Members entitled to vote at any meeting of Members has been made as provided in this Section 7.05, such determination shall apply to any adjournment thereof.
+For the purpose of determining Voting Members entitled to notice of or to vote at any meeting of Voting Members or any adjournment thereof, or Members entitled to receive payment of any distribution, or in order to make a determination of Members for any other purpose, the day immediately prior to the date on which notice of the meeting is emailed or the day immediately prior to the date on which the resolution declaring such distribution is adopted, as the case may be, shall be the record date for such determination of Members. When a determination of Members entitled to vote at any meeting of Members has been made as provided in this Section 7.05, such determination shall apply to any adjournment thereof.
 
 ###### Section 7.06 - Quorum:
 
@@ -636,7 +609,7 @@ If a quorum is present, the affirmative vote of Voting Members associated with a
 
 ###### Section 7.09 - Action by Members Without a Meeting:
 
-Action required or permitted to be taken at a meeting of Voting Members associated with a Series may be taken without a meeting and without prior notice if consents, whether oral or written, of Managers associated with such Series are received representing the minimum number of votes that would be necessary to authorize or take such action at a meeting at which all Voting Members of such Series were present and voted.
+Action required or permitted to be taken at a meeting of Voting Members associated with a Series may be taken without a meeting and without prior notice if consents, whether oral or written or emailed, of Managers associated with such Series are received representing the minimum number of votes that would be necessary to authorize or take such action at a meeting at which all Voting Members of such Series were present and voted.
 
 ###### Section 7.10 - Waiver of Notice:
 
@@ -648,11 +621,12 @@ When any notice is required to be given to any Voting Member, a waiver thereof i
 
 ###### Section 8.01 - Members’ Capital Contributions:
 
+TODO: Remove the obligation to contribute capital to own a series LLC - instead, Series LLC can be issued by a critical vote of the Company members
 Each Member associated with a Series shall contribute to such Series the amount as is set forth in Exhibit A attached hereto as its Initial Capital Contribution to the Company with respect to such Series.
 
 ###### Section 8.02 - Additional Contributions or Loans:
 
- A Member associated with a Series shall be required to make such additional Capital Contributions or loans to the Company with respect to such Series as shall be determined by Voting Members associated with such Series owning a Majority Interest of such Series from time to time to be reasonably necessary to meet the expenses and obligations of such Series. After the making of any such determination, the Voting Members associated with such Series shall give written notice to each Member associated with such Series of the aggregate amount of required additional Capital Contributions or loan, and each Member associated with such Series shall deliver to the Company its pro rata share thereof (in proportion to the respective Percentage Interest of the Member in such Series on the date such notice is given) no later than thirty (30) days following the date such notice is given. None of the terms, covenants, obligations or rights contained in this Section 8.02 is or shall be deemed to be for the benefit of any Person other than the Members associated with such Series and the Company with respect to such Series, and, to the fullest extent permitted by law, no third party, including creditors of the Company or of any Series, shall under any circumstances have any right to compel any actions or payments by the Members.
+ A Member associated with a Series shall be required to make such additional Capital Contributions or loans to the Company with respect to such Series as shall be determined by Voting Members associated with such Series owning a Majority Interest of such Series from time to time to be reasonably necessary to meet the expenses and obligations of such Series. After the making of any such determination, the Voting Members associated with such Series shall give emailed notice to each Member associated with such Series of the aggregate amount of required additional Capital Contributions or loan, and each Member associated with such Series shall deliver to the Company its pro rata share thereof (in proportion to the respective Percentage Interest of the Member in such Series on the date such notice is given) no later than thirty (30) days following the date such notice is given. None of the terms, covenants, obligations or rights contained in this Section 8.02 is or shall be deemed to be for the benefit of any Person other than the Members associated with such Series and the Company with respect to such Series, and, to the fullest extent permitted by law, no third party, including creditors of the Company or of any Series, shall under any circumstances have any right to compel any actions or payments by the Members.
 
 ###### Section 8.03 - Capital Accounts:
 
@@ -684,35 +658,37 @@ Each Member associated with a Series shall contribute to such Series the amount 
 
 Initial Unit Allocation:
 
-1. Eric Roberts: 10000 (One Thousand) VOTING Units (10% Ownership)
+1. Eric Roberts: 10000 (One Thousand) VOTING Units
 
-2. David Murry:   1000 (One Thousand) VOTING Units (10% Ownership)
+2. David Murry:  1000 (One Thousand) VOTING Units
 
-3. David Pope:   1000 (One Thousand) VOTING Units (10% Ownership)
+3. David Pope: 1000 (One Thousand) VOTING Units
 
-4. Victor Miller:   1000 (One Thousand) VOTING Units (10% Ownership)
+4. Victor Miller: 1000 (One Thousand) VOTING Units
 
-5. Unallocated: 1000 (One Thousand) VOTING Units
+5. Unallocated : 1000 (One Thousand) VOTING Units
 
-6. Unallocated: 5000 (Five Thousand) NON-VOTING Units
+6. Yuebin Dong Roberts : 1000 (One Thousand) NON-VOTING Units
 
-(c) Each Member’s holdings of Units shall be evidenced by this agreement and may additionally be a certificate in the form approved by the Manager, such as tokens issued on a cryptographic data network.
+7. Unallocated : 4000 (Five Thousand) NON-VOTING Units
+
+(c) Each Member’s holdings of Units shall be evidenced by this agreement, updated yearly, and may additionally be represented as virtual tokens issued on a cryptographic data network as listed in Exhibit D.
 
 ###### Section 8.06 - Voting Units:
 
 (a)Subject to the other provisions of this Agreement (including those governing the Members’ respective rights to receive allocations of Net Profits and Net Losses and to buy or sell Units), each Voting Unit with respect to a Series shall have the rights, and be subject to the obligations, identical to those of each other Voting Unit.
 
-(b)The holders of Voting Units shall be entitled to one vote for each Voting Unit held at all meetings of Voting Members (and written actions in lieu of meetings), with no right to cumulative voting.
+(b)The holders of Voting Units shall be entitled to one vote for each Voting Unit held at all meetings of Voting Members (and emailed actions in lieu of meetings), with no right to cumulative voting.
 
 
 ###### Section 8.07 – Series Ownership
 
-(a)All Membership Interests in the Series shall be denominated in Three Hundred Units, One Hundred Fifty Voting Units and One Hundred Fifty Non-Voting Units, where the aggregate of issued Units shall comprise one hundred percent ownership in the series. Each Voting Unit shall have the rights, and be subject to the obligations, identical to those of each other Non-Voting Unit of the same Series with the exception that only the Voting Units may exercise the right to Vote.
+(a)All Membership Interests in the Series shall be denominated in One Thousand Units,  Five Hundred Voting Units and Five Hundred Non-Voting Units, where the aggregate of issued Units shall comprise one hundred percent ownership in the series. Each Voting Unit shall have the rights, and be subject to the obligations, identical to those of each other Non-Voting Unit of the same Series with the exception that only the Voting Units may exercise the right to Vote.
 
-(b)Majority vote of Voting Units controls the series governance.
+(b) Majority vote of Voting Units controls the series governance.
 
 ###### Section 8.08 Transfers Restricted.
-No Member (Series or Company) shall transfer all or any part of his Company interest, except as provided in this Article VIII of this Agreement. In the event that a Member or a transferee of a Member violates any of the provisions of this Article VIII of this Agreement, such transfer shall be null and void and of no force or effect.
+No Member (Series or Company) shall transfer all or any part of their Company interest without first notifying other Members, and soliciting offers for a period of no less than 30 days. Following this period, transfer shall be opened available to "third parties".
 
 ###### Section 8.09 "Transfer" Defined.
 The term "transfer" shall mean and include any distribution, sale, transfer, assignment, gift, creation of an encumbrance, pledge, hypothecation, grant of a security interest, lien or other disposition, either with or without consideration, whether voluntary or involuntary, by operation of law or otherwise, including, without limitation, transfers incident to divorce or separation and all executions of legal process attaching to or affecting in any way the Company interest of a Member or a Member's beneficial interest therein. In addition to the foregoing, the following events shall be deemed transfers within the meaning of Article VIII of this Agreement which shall be subject to the terms and conditions imposed upon transfers:
@@ -731,33 +707,26 @@ The term "transfer" shall mean and include any distribution, sale, transfer, ass
 Except as otherwise provided in Article X of this Agreement, the transfer by a Member (Series or Company) of his Company interest shall not cause the dissolution or termination of the Company and the business of the Company may be continued thereafter by and for the benefit of the remaining Members.
 
 ###### Section 8.11 Voluntary Transfer; Mandatory Offer to Company.
-No Member (Series or Company) may voluntarily transfer all or any part of his Company interest, without first complying with the terms of this Sub Article:
+No Member (Series or Company) may voluntarily transfer all or any part of his or her Company interest, without first complying with the terms of this Sub Article:
 
-a. Offer for Sale. Any Member desiring to transfer his Company interest (hereinafter referred to as the "Transferring Member") shall give written notice to the Company and all the other Members, stating his desire to dispose of some or all of his Company interest (hereinafter referred to as the "Company interest proposed for sale") and shall offer for sale the Company interest proposed for sale to the Company first and then to all the other Members as provided herein.
+a. Offer for Sale. Any Member desiring to transfer his or her Company interest (hereinafter referred to as the "Transferring Member") shall give email notice to the Company and all the other Members, stating his or her desire to dispose of some or all of their Company interest (hereinafter referred to as the "Company interest proposed for sale") and shall offer for sale the Company interest proposed for sale to the Company first and then to all the other Members as provided herein.
 
-b. Acceptance of Offer. For a period of thirty (30) days after delivery of said written notice to the Company and all the Members, or until rejected by the Company, whichever occurs first, the Transferring Member may not transfer the Company interest proposed for sale to anyone other than the Company in accordance with the terms hereof. In the event the Company does not elect or rejects to purchase such Company interest within such thirty (30) day period, then all the Members shall be entitled to elect to purchase such Company interest either prorata among themselves or as they otherwise mutually agree in writing within fifteen (15) days thereafter. If the Company elects or subsequently the Members elect to purchase the Company interest proposed for sale, the Company or Members shall elect to do so by giving written notice of acceptance to the Transferring Member, within the aforesaid periods, and in the event of such election, such sale shall close at the Company's principal place of business within one hundred and twenty (120) days after the Transferring Member gave written notice to the Company at the address provided in Sub Article 2.03 of this Agreement.
+b. Acceptance of Offer. For a period of thirty (30) days after delivery of said email notice to the Company and all the Members, or until rejected by the Company, whichever occurs first, the Transferring Member may not transfer the Company interest proposed for sale to anyone other than the Company in accordance with the terms hereof. In the event the Company does not elect or rejects to purchase such Company interest within such thirty (30) day period, then all the Members shall be entitled to elect to purchase such Company interest either prorata among themselves or as they otherwise mutually agree in writing within fifteen (15) days thereafter. If the Company elects or subsequently the Members elect to purchase the Company interest proposed for sale, the Company or Members shall elect to do so by giving email notice of acceptance to the Transferring Member, within the aforesaid periods, and in the event of such election, such sale shall close at the Company's principal place of business within one hundred and twenty (120) days after the Transferring Member gave email notice to the Company at the address provided in Sub Article 2.03 of this Agreement.
 
-c. Purchase Price and Payment Terms. The purchase price for the Company interest proposed for sale pursuant to Sub Article 8.11(a) of this Agreement shall be determined in accordance with Sub Article 8.12 of this Agreement and the terms and conditions for the payment of such purchase price shall be determined in accordance with Sub Article 8.13 of this Agreement.
+c. Purchase Price and Payment Terms. The purchase price for the Company interest shall be determined solely by the seller.
 
 d. Right of First Refusal. In the event that the Company or Members do not elect to purchase the entire Company interest proposed for sale by the Transferring Member as provided in Sub Article 8.11(a) of this Agreement, the Transferring Member may thereupon solicit offers from any other person (hereinafter referred to as the "third party") to purchase the entire Company interest proposed for sale within sixty (60) days thereafter, subject to the Company's and Members' right of first refusal as set forth herein. No offer to purchase a Company interest proposed for sale shall be valid unless it is bona fide, in writing and signed by the third party and the Transferring Member (hereinafter referred to as the "third party offer"). In the event the Transferring Member obtains a third party offer to purchase the Company interest proposed for sale, the Transferring Member shall deliver the third party offer to the Company and all the Members and shall reoffer the Company interest proposed for sale to the Company and subsequently to all the Members on the same terms and conditions as contained in the third party offer. The offer to the Company and the Members and the acceptance of such offer by the Company or the Members shall be done as provided in Sub Article 8.11(b) of this Agreement. In the event the Company or the Members accepts the Transferring Member's offer to purchase the Company interest proposed for sale in accordance with the terms and conditions contained in the third party offer, then settlement on the purchase of the Company interest proposed for sale shall be held in accordance with the terms and conditions of the third party offer. If the Company or the Members do not accept the third party offer, the Transferring Member shall be free to sell the Company interest proposed for sale to the third party, but only in accordance with the exact same terms and conditions set forth in the third party offer. In the event the aforesaid sixty (60) day period expires or any of the terms or conditions of the third party offer is changed either by the Transferring Member and/or the third party, the Company and all the Members shall again be offered the right to purchase the Company interest proposed for sale as aforesaid.
 
 e. Purchase of Entire Interest. In no event shall the Transferring Member be required to transfer less than the entire Company interest proposed for sale to the Company and the Members under this Sub Article 8.11 of this Agreement; it being understood that the Company must purchase the entire Company interest proposed for sale or waive its rights under this Sub Article 8.11 of this Agreement.
 
 ###### Section 8.12 Purchase Price.
-The purchase price for a Company interest proposed for sale in accordance with this Article VIII of this Agreement shall be determined as follows:
+The purchase price for a Company interest is first determined by the Treasurer. Within a week of the Treasurer providing the valuation to all Members in email, a Critical Vote may be called to replace the Treasurer's valuation. Such a Critical Vote may either provide a new valuation, or name a third party to provide the valuation instead. After the purchase price has been determined according to this process, it may not be changed without restarting this process.
 
- a. Capital Account Value. The Transferring Member's capital account shall be valued as per the books of account of the Company as of the Valuation Date and there shall be added to or subtracted from such amount the Transferring Member's proportionate share of the Company's net profits or net losses for the period up to and including the Valuation Date.
-
- b. Adjustments to Capital Account. The amount determined in Sub Article 8.12(a) of this Agreement shall then be adjusted up or down to reflect the Transferring Member's proportionate share of the difference between the fair market value of the Company's real property, stocks, securities and equity interests in other entities, if any, and the book value of such Company property on the Valuation Date. If the parties cannot agree with respect to the fair market value of such Company property, the matter shall be settled by arbitration in the manner provided in Sub Article 12.15 of this Agreement, with one (1) arbitrator to be selected by the Members other than the Transferring Member, one (1) arbitrator to be selected by the Transferring Member or his personal representative, as the case may be, and the third arbitrator, who shall be a person who is experienced in the appraisal of property of the kind being valued, shall be selected by the first two (2) arbitrators. The decision of the arbitrators as to the fair market value of such property shall be final and binding upon the parties. If the arbitrators cannot agree on the fair market value of such property, then the decision of the third arbitrator (i.e., the one selected by the first two (2) arbitrators) shall control.
-
- c. Valuation Date. The term "Valuation Date" as used in this Sub Article 8.12 of this Agreement refers to the last day of the calendar month immediately preceding the date the Company interest proposed for sale is offered for sale by the Transferring Member to the Company and the Members as provided in Sub Article 8.11(a) of this Agreement.
-
- d. Third Party Offer. Notwithstanding anything contained in this Sub Article 8.12 of this Agreement to the contrary, if the purchase of the Company interest proposed for sale is the result of an exercise of a right of first refusal by the Company as provided in Sub Article 8.11 of this Agreement, then the purchase price shall be the price set forth in the third party offer.
 
 ###### Section 8.13 Payment Terms and Conditions.
 The payment of the purchase price provided for in Sub Article 8.12 of this Agreement shall be paid by the Company to the Transferring Member as follows:
 
-a. Cash Payment. Ten percent (10%) of the purchase price provided for in Sub Article 8.11 of this Agreement shall be paid in cash, certified check, attorneys' check or other immediately available funds on the settlement date.
+a. Cash Payment. Ten percent (10%) of the purchase price provided for in Sub Article 8.11 of this Agreement shall be paid in cash, certified check, cryptocurrency, attorneys' check or other immediately available funds on the settlement date.
 
  b. Promissory Note. The balance of the purchase price provided for in Sub Article 8.12 of this Agreement shall be paid in the form of a promissory note for said sum (the "Promissory Note"), to be amortized with equal monthly payments of principal and interest over a term of five (5) years. The first payment on the Promissory Note shall be made on the first day of the second calendar month immediately following the settlement date, and payments of principal and interest shall continue on the first day of each calendar month thereafter for an additional fifty nine (59) calendar months, when the entire unpaid balance of principal, together with all accrued and unpaid interest thereon, shall be fully due and payable. The interest to be paid on the Promissory Note shall be fixed at the lowest simple interest rate specified under Article 483 (or any successor Articles) of the Internal Revenue Code of 1986, as amended, required to be charged in order to avoid the imposition of "unstated interest.” At the end of each calendar year during the term of the Promissory Note, the rate of interest to be paid on the Promissory Note shall be adjusted for the new calendar year to be fixed at the lowest simple interest rate specified under Article 483 (or any successor Articles) of the Internal Revenue Code of 1986, as amended, required to be charged in order to avoid the imposition of "unstated interest.” All or any part of the Promissory Note may be prepaid at any time, and from time to time, without penalty.
 
@@ -766,6 +735,8 @@ c. Additional Provisions for Promissory Note. In addition to the provisions set 
  d. Security for Promissory Note. The Promissory Note or the Guaranty, whichever is made by the Company, shall be secured by (i) a mortgage on the real property of the Company, if any, subordinate only to mortgage liens outstanding at the time of the purchase of the Company interest proposed for sale and/or (ii) a security interest in the personal property of the Company, if any, subordinate only to security interests outstanding at the time of the purchase of the Company interest proposed for sale, as the case may be. The aforesaid mortgage lien and/or security interest shall be equal in priority to any lien previously placed on such property as a result of a prior purchase of a Company interest proposed for sale under this Agreement, except that the Company shall not be required to grant a mortgage lien and/or security interest to any Transferring Member if that would cause a default under any existing mortgage, loan agreement, or security agreement to which the Company is a party or promissory note of which the Company is the maker. The Company shall take all reasonable steps necessary to secure the approvals of all other parties to such instruments to permit it to mortgage its real property or grant a security interest in its personal property without causing a default under such instruments.
 
 e. Third Party Offer. Notwithstanding anything contained in this Sub Article 8.13 of this Agreement to the contrary, if the purchase of the Company interest proposed for sale is the result of an exercise of a right of first refusal by the Company as provided in Sub Article 8.11 of this Agreement, then the terms for the payment of the purchase price shall be those set forth in the third party offer.
+
+f. Smart Contract. If a smart contract is agreed upon by both parties as being capable of performing the same function as a Promissory Note, it may be executed by both parties instead.
 
 ###### Section 8.14 Involuntary Transfer; Option to Purchase by Company.
 In the event that a Member discontinues being employed by the Company or Member's (hereinafter referred to as the "Transferring Member") interest is transferred other than as provided in Sub Article 8.11 of this Agreement (hereinafter referred to as the "Event of Transfer"), the Company shall have the option for a period of six (6) months after the date of the Event of Transfer to purchase all or any part of the Company interest owned at any time during such six (6) month period by the Transferring Member. In the event the Company does not elect to exercise its option within such six (6) month period, then all the Members shall be entitled to exercise such option either prorata among themselves or as they otherwise mutually agree in writing within an additional six (6) month period. The purchase price for the Transferring Member's Company interest shall be determined in the same manner as set forth in Sub Article 8.12 of this Agreement, except that the "Valuation Date" shall be the last day of the calendar month immediately preceding the date the Company exercises its option or the Members exercise their option to purchase the Transferring Member's Company interest, and the terms and conditions for payment of this purchase price shall be determined in the same manner as set forth in Sub Article 8.13 of this Agreement.
@@ -782,15 +753,17 @@ The Transferring Member shall pay all costs and expenses incurred by the Company
 ###### Section 8.18 Admission of Transferee.
 No Transferee other than one who is already a Member shall be admitted as a Member without the Majority Vote in interest of all Members of he Company or the Series, as applicable.
 
+###### Section 8.19 Unpermitted Transfers.
+
+Whereas the transfer of cryptotokens representing company ownership is controlled solely by the owner of said tokens, any transfer of such tokens representing Company ownership not following the provisions in this Article is sufficient grounds to replace the existing Corresponding Distributed Organization with a new one, that maintains the same token distribution, aside from the illegitimate transfer.
 
 #### ARTICLE IX
 
-##### ALLOCATIONS AND DISTRIBUTIONS
-
+##### ALLOCATIONS, DISTRIBUTIONS, AND REDISTRIBUTION
 
 ###### Section 9.01 - Profits and Losses:
 
-a)Subject to the allocation rules of Section 9.02, Profits with respect to any Series for any Fiscal Year shall be allocated among the Members associated with such Series in proportion to such Members’ Percentage Interests in such Series, minus the Redistribution outlined in Section 9.15.
+a)Subject to the allocation rules of Section 9.02, Profits with respect to any Series for any Fiscal Year shall be allocated among the Members associated with such Series in proportion to such Members’ Percentage Interests in such Series.
 
 (b)Subject to the allocation rules of Section 9.02, Losses with respect to any Series for any Fiscal Year shall be allocated among the Members associated with such Series in proportion to such Members’ Percentage Interests in such Series.
 
@@ -822,6 +795,7 @@ Except as otherwise provided in Article XII hereof (relating to the dissolution 
 
 (b)All amounts withheld pursuant to the Code or any provision of any state or local tax law with respect to any payment, distribution or allocation to the Company or the Members shall be treated as amounts distributed to the Members pursuant to this Article IX for all purposes of this Agreement. The Members are authorized to withhold from distributions, or with respect to allocations, to the Members and to pay over to any federal, state or local government any amounts required to be so withheld pursuant to the Code or any provision of any other federal, state or local law and shall allocate such amounts to those Members with respect to which such amounts were withheld.
 
+
 ###### Section 9.06 - Limitation upon Distributions:
 
 (a)Notwithstanding any provision to the contrary contained in this Agreement, the Company with respect to a Series shall not make any distribution to any Person on account of its interest in the Company with respect to such Series if such distribution would violate §18-215 or §18-607 of the Act or other applicable law.
@@ -831,7 +805,6 @@ Except as otherwise provided in Article XII hereof (relating to the dissolution 
 ###### Section 9.07 - Accounting Method:
 
 For both financial and tax-reporting purposes and for purposes of determining Profits and Losses, the books and records of the Company with respect to each Series shall be kept on the accrual method of accounting in a consistent manner and shall reflect all Company transactions with respect to such Series and be appropriate and adequate for the Company’s business.
-
 
 ###### Section 9.08 - Interest on and Return of Capital Contributions:
 
@@ -857,7 +830,7 @@ At the expense of the relevant Series, the Managers associated with such Series 
 
 (f) Minutes of every meeting held, if any;
 
-(g)Any written consents obtained from Voting Members associated with such Series for actions taken by such Voting Members without a meeting; and
+(g)Any email consents obtained from Voting Members associated with such Series for actions taken by such Voting Members without a meeting; and
 
 (h)Unless contained in the Certificate of Formation or this Agreement, a writing prepared by the Voting Members associated with such Series setting out the following:
 
@@ -871,7 +844,7 @@ The Managers shall cause the preparation and timely filing of all tax returns re
 
 ###### Section 9.12 - Tax Matters Partner:
 
-(a) [[MANAGER TWO]] is hereby designated as the initial “Tax Matters Partner” of the Company for purposes of §6231(a)(7) of the Code and shall have the power to manage and control, on behalf of the Company, any administrative proceeding at the Company level with the Internal Revenue Service relating to the determination of any item of Company income, gain, loss, deduction or credit for federal income-tax purposes. The “Tax Matters Partner is not required nor implied to have an ownership interest in the Company or any Series.
+(a) [[David Pope]] is hereby designated as the initial “Tax Matters Partner” of the Company for purposes of §6231(a)(7) of the Code and shall have the power to manage and control, on behalf of the Company, any administrative proceeding at the Company level with the Internal Revenue Service relating to the determination of any item of Company income, gain, loss, deduction or credit for federal income-tax purposes. The “Tax Matters Partner" is not required nor implied to have an ownership interest in the Company or any Series.
 
 (b)The Tax Matters Partner shall, within ten (10) days of the receipt of any notice from the Internal Revenue Service in any administrative proceeding at the Company level relating to the determination of any Company item of income, gain, loss, deduction or credit, mail a copy of such notice to each Member.
 
@@ -887,12 +860,22 @@ In the case of a transfer of a Membership interest on the death of a Member of a
 
 It is the intention of the parties hereto that the Company be classified as a partnership, and not as an association taxable as a corporation, for federal income-tax purposes, and the provisions of this Agreement shall be interpreted in a manner consistent with such intention. No election shall be filed with the Internal Revenue Service (or the tax authorities of any State) to have the Company taxable other than as a partnership for income-tax purposes without the prior consent of all Voting and Non-Voting Members.
 
-####### Section 9.15 - Redistribution
+####### Section 9.15 - Redistribution Protocol
 
-Unless otherwise decided by a vote by Members, each Series is subject to a redistribution protocol at the end of each fiscal year.
-TODO: % for Pope's accounting?
-% that goes to parent company members?
-% that goes to all other child(series) companies?
+Each Series that the Company has at least a 10% stake in shall be considered part of the Redistribution Network, unless otherwise determined by a Critical Vote.
+
+Any profit distributed to the Company for the first 10% of its ownership of a Series shall be considered Redistribution Profit.
+
+(a) Redistribution profit is first used to pay any outstanding accountant or lawyer fees pertaining to the Company or its Series, as approved by a majority vote of the Company.
+
+(b) Following that payment, 1/3rd of the remaining Redistribution Profit will be distributed to the Company Members as per Article 9.
+
+(c) 1/3rd of the Redistribution Profit shall be distributed to each Series in the Redistribution Network equally. This shall be made available to each Series Manager within two months the fiscal year's end. Any Redistribution Profit not claimed after one month of it having been made available (and the relevant Managers notified via email) will be cycled into the (d)
+
+(d) The final remainder of the Redistribution Profit will be made available to the Company's Series. During the first month of the fiscal year, each Series may apply for a share via email, stating the intended use of the share. Each voting member of the Company is able to assign a numerical value to each request. If there is 5 requests for a share, then a member is able to assign a 1, 2, 3, 4, and 5 to each proposal (or none). Each proposal's score is then tallied, and their score relative to all others' determines the percentage of the remaining Redistribution profit they are to receive.
+
+ After the process described in 9.15(c) is complete, the profit shares pertaining to this subsection shall be made available within one month, and each Manager shall be notified in email. Any profit not claimed by Series that Proposed will be redistributed to the Company's members according to Article IX.
+
 
 
 #### ARTICLE X
@@ -901,7 +884,7 @@ TODO: % for Pope's accounting?
 
 ###### Section 10.01 - Transfer:
 
-Except as provided below, to the fullest extent permitted by law, a Person may not assign, distribute, hypothecate, pledge, recognize, sell or transfer any Membership Interest in a Series or the Company to any other Person, except with the express written consent of all Members associated with such Series or the Company, as the case may be. A transferee may be admitted as a Member of any Series or the Company only upon compliance with Section 11.01. Unless otherwise specified in a Separate Series Agreement, if any Member of a Series or the Company assigns all or any part of its Membership Interest in such Series or the Company to a transferee, such Member shall also assign, at the same time, to such transferee, the same proportion of its Membership Interests in the Company and in each other Series with respect to which such Member is associated, unless otherwise indicated.
+Except as provided below, to the fullest extent permitted by law, a Person may not assign, distribute, hypothecate, pledge, recognize, sell or transfer any Membership Interest in a Series or the Company to any other Person, except with the express emailed consent of all Members associated with such Series or the Company, as the case may be. A transferee may be admitted as a Member of any Series or the Company only upon compliance with Section 11.01. Unless otherwise specified in a Separate Series Agreement, if any Member of a Series or the Company assigns all or any part of its Membership Interest in such Series or the Company to a transferee, such Member shall also assign, at the same time, to such transferee, the same proportion of its Membership Interests in the Company and in each other Series with respect to which such Member is associated, unless otherwise indicated.
 
  A Member may, without consent, transfer its interest in the Company to a revocable trust for the primary benefit of the Member’s family, of which the transferor is the Donor and a Trustee thereof; and may transfer its interest in the Company upon death by Will to a Member of the transferor’s family or to any trust in which the transferor’s family as defined herein are the primary beneficiaries. The transferor’s family shall mean the Member’s then current spouse and the Member’s lineal descendants. Any transfer, other than a transfer permitted under this Section, shall be considered an assignment of the Member’s interest.
 
@@ -930,10 +913,10 @@ No additional Members or assignees of Membership Interests shall be entitled to 
 
 (a)The Company shall be dissolved upon the occurrence of either of the following events:
 
-(i)  by the majority written agreement of all Members; or
+(i)  by the pass of a critical vote calling for Dissolution; or
 
-(ii) upon the entry of decree of judicial dissolution under §18-802 of the Act.
-TODO: Update this to Wyoming's code
+(ii) upon the entry of decree of judicial dissolution under the Act.
+
 
 (b)The death, retirement, resignation, expulsion, bankruptcy or dissolution of any Member or the occurrence of any event that terminates the continued membership of any Member in the Company shall not in and of itself cause a dissolution of the Company.
 
@@ -945,7 +928,7 @@ TODO: Update this to Wyoming's code
 
 (i)  upon the dissolution of the Company;
 
-(ii) by the majority written agreement of all Members associated with such Series substantially in the form of Exhibit C attached hereto;
+(ii) by the majority email agreement of all Members associated with such Series substantially in the form of Exhibit C attached hereto;
 
 (iii)at the time in which there are no Members associated with such Series; or
 
@@ -954,8 +937,6 @@ TODO: Update this to Wyoming's code
 (b)Other than in connection with a transfer of Membership Interests in accordance with this Agreement, a Member associated with a Series shall not take any voluntary action (including, without limitation, resignation) that directly causes it to cease to be a Member of the Company associated with such Series. Unless otherwise approved by Members associated with a Series owning a Majority Interest of such Series, a Member who ceases to be a Member associated with such Series (a “Resigning Member”), regardless of whether such termination was the result of a voluntary act by such Member, shall not be entitled to receive any distributions from the Company with respect to such Series in excess of those distributions to which such Member would have been entitled had such Member remained a Member associated with such Series. Except as otherwise expressly provided herein, a Resigning Member shall immediately become an assignee associated with such Series. Damages for breach of this Section 12.02(b) shall be monetary damages only (and not specific performance), and such damages may be offset against distributions by the Company with respect to such Series to which the Resigning Member would otherwise be entitled.
 
 (c) The termination and winding up of a Series shall not cause a dissolution of the Company (even if there are no remaining Series) or the termination of any other Series. The termination of a Series shall not affect the limitation on liabilities of such Series or any other Series provided by this Agreement and the Act.
-
-TODO: Series can be terminated by Company (child can be terminated by parent) under certain conditions such as failure to pay into Redistribution protocol
 
 ###### Section 12.03 - Winding Up, Liquidation and Distribution of Assets of a Series Upon Termination of Such Series:
 
@@ -997,7 +978,7 @@ Except as otherwise provided by applicable laws, upon termination of a Series, e
 ##### MISCELLANEOUS PROVISIONS
 
 ###### Section 13.01 - Notices:
-All notices provided for by this Agreement shall be made in writing and deemed received (i) upon the actual delivery of the notice into the hands of the party entitled thereto, or (ii) upon the mailing of the notice in the U.S. mail at the last known address of the party entitled thereto, certified mail, return receipt requested.
+All notices provided for by this Agreement shall be made in email.
 
 ###### Section 13.02 - Binding Effect:
 
@@ -1009,7 +990,7 @@ The Membership Interests are unique chattels, and each party to this Agreement s
 
 ###### Section 13.04 - Governing Law:
 
-This Agreement, and the rights of the parties hereunder, shall be construed pursuant to the laws of the State of [[STATE OF INCORPORATION]] (without regard to conflict of laws principles).
+This Agreement, and the rights of the parties hereunder, shall be construed pursuant to the laws of the State of Wyoming (without regard to conflict of laws principles).
 
 ###### Section 13.05 - Waiver of Action for Partition:
 
@@ -1017,7 +998,7 @@ Each Member irrevocably waives during the term of the Company any right that it 
 
 ###### Section 13.06 - Amendments:
 
-This Agreement may not be amended except in writing by the majority vote of all Percentage Interests owned by Members associated with each Series. Any amendment changing the Percentage Interest needed under this Section 13.06 to amend this Agreement requires the majority vote of the Members.
+This Agreement may not be amended except via a Critical Vote, including any changes to the % needed to pass a Critical Vote.
 
 ###### Section 13.07 - Execution of Additional Instruments:
 
@@ -1100,10 +1081,7 @@ Witness  [[MEMBER TWO]]
 
 ## EXHIBIT A: List of Series & Members
 
-[[COMPANY]]
-
-
-
+SPROUT
 
 
 Name of Series
@@ -1186,7 +1164,7 @@ c/o [[ADDRESS ONE]]
 
 ### SEPARATE SERIES AGREEMENT
 
-[[COMPANY]], Series 1
+Sprout, Series 1
 
 
 THIS SEPARATE SERIES AGREEMENT, dated as of [[CHILD INCORPORATION DATE]] (this “Separate Series Agreement”), is entered into by and between [[MEMBER ONE]] and [[MEMBER TWO]], associated with the newly created Series identified below (the “New Series”); and [[MEMBER ONE]] and [[MEMBER TWO]], as members of the Company. Capitalized terms used herein and not otherwise defined are used as defined in the Limited Liability Company Agreement of the Company, dated and effective as of [[CHILD INCORPORATION DATE]] (as amended from time to time, the “LLC Agreement”).
@@ -1269,6 +1247,7 @@ Unallocated Fifty Voting Units
 
 Unallocated One Hundred Fifty Non-Voting Units
 
+	11.  Distributed Organization. [TODO: Option to have a DAO or other voting system for governance]
 
 
   IN WITNESS WHEREOF, the parties hereto have executed, setting their hands and seals this Separate Series Agreement as of the date first-above stated.
@@ -1302,7 +1281,7 @@ COMPANY:      NEW SERIES:
 
 
 
-THIS AGREEMENT TO TERMINATE SERIES, dated as of ___________ __, 20__ (the “Termination Agreement”), is entered into by and between ________________________, as a member of [[COMPANY]] (“the “Company”) associated with the Terminated Series (as defined below) and ___________________, as a member of the Company associated with the Terminated Series. Capitalized terms used herein and not otherwise defined are used as defined in the Limited Liability Company Agreement of the Company, dated and effective as of _________ __, 20__ (as amended from time to time, the “LLC Agreement”), by and between _____ and ______.
+THIS AGREEMENT TO TERMINATE SERIES, dated as of ___________ __, 20__ (the “Termination Agreement”), is entered into by and between ________________________, as a member of Sprout (“the “Company”) associated with the Terminated Series (as defined below) and ___________________, as a member of the Company associated with the Terminated Series. Capitalized terms used herein and not otherwise defined are used as defined in the Limited Liability Company Agreement of the Company, dated and effective as of _________ __, 20__ (as amended from time to time, the “LLC Agreement”), by and between _____ and ______.
 
 
 
@@ -1310,7 +1289,7 @@ THIS AGREEMENT TO TERMINATE SERIES, dated as of ___________ __, 20__ (the “Ter
 
 
 
-WHEREAS, the parties hereto have heretofore formed a limited liability company pursuant to the [[STATE OF INCORPORATION]] Limited Liability Company Act by filing a Certificate of Formation of the Company with the office of the Secretary of State of the State of [[STATE OF INCORPORATION]] and by entering into the LLC Agreement; and
+WHEREAS, the parties hereto have heretofore formed a limited liability company pursuant to the Wyoming Limited Liability Company Act by filing a Certificate of Formation of the Company with the office of the Secretary of State of the State of Wyoming and by entering into the LLC Agreement; and
 
 
 
@@ -1375,3 +1354,9 @@ NOW THEREFORE, in consideration of the mutual promises and obligations contained
     _______________________,
 
   as Member
+
+
+
+## EXHIBIT D		
+### Corresponding distributed organizations		
+[TODO: Make an Aragon DAO to be the voting platorm for the company.]
