@@ -1,6 +1,5 @@
-Sprout is a Series LLC/DAO hybrid, soon to be incorporated in the State of Wyoming.
+Sprout is a Series LLC/DAO hybrid incorporated in the State of Wyoming.
 
-Voting will be done via an Aragon DAO.
+Important votes rely upon an Aragon DAO. https://mainnet.aragon.org/#/sprout/
 
-Child LLCs (Series) will be obligated to share 5% of their profit with the rest of the organization.
-2% goes to the parent LLC, and the other 3% is distributed equally amongst other children.
+Series LLCs (Seedlings) will be obligated to share a portion of their profit with the parent Sprout, who shares no losses or voting rights.  In exchange, these Seedlings will receive basic accounting and registered agent services. 
